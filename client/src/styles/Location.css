@@ -1,0 +1,17 @@
+#feed {
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+}
+
+#image{
+    text-align: center;
+}
+
+#imageUrl{
+    width: 80%;
+}
+
+#pie{
+    padding-left: 30px;
+}

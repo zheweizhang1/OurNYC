@@ -1,0 +1,985 @@
+[{
+    "id": "BK88",
+    "borough": "Brooklyn",
+    "city": "Borough Park",
+    "description": "Borough Park (also spelled Boro Park) is a neighborhood in the southwestern part of the borough of Brooklyn, in New York City, United States. The neighborhood is bordered by Bensonhurst to the south, Bay Ridge to the southwest, Sunset Park to the west, Kensington and Green-Wood Cemetery to the northeast, Flatbush to the east, and Midwood to the southeast.\nBorough Park is home to one of the largest Orthodox Jewish communities outside Israel, with one of the largest concentrations of Jews in the United States, and Orthodox traditions rivaling many insular communities. As the average number of children in Orthodox and Haredi families is 6.72, Borough Park is experiencing a sharp growth in population. It is an economically diverse neighborhood."
+}, {
+    "id": "QN51",
+    "borough": "Queens",
+    "city": "Murray Hill",
+    "description": "Flushing is a neighborhood in the New York City borough of Queens in the United States. While much of the neighborhood is residential, Downtown Flushing, centered on the northern end of Main Street in Queens, is a large commercial and retail area and is the fourth largest central business district in New York City.Flushing's diversity is reflected by the numerous ethnic groups that reside there, including people of Asian, Hispanic, Middle Eastern, European, and African American ancestry. It is part of New York's Sixth Congressional District, which is located entirely within Queens County. Flushing is served by five railroad stations on the Long Island Rail Road Port Washington Branch, as well as the New York City Subway's IRT Flushing Line (7 and <7>​ trains), which has its terminus at Main Street. The intersection of Main Street and Roosevelt Avenue is the third busiest intersection in New York City, behind Times and Herald Squares.The neighborhood of Flushing is part of Queens Community Board 7 and the broader district of Flushing in Queens County. The Flushing \"neighborhood\" is bounded by Flushing Meadows–Corona Park to the west, Kissena Boulevard to the east, the Long Island Expressway to the south, and Willets Point Boulevard to the north.\nZIP codes beginning with 113 are administered from a sectional center at the Flushing Post Office. The 113-prefixed area extends northwest from Broadway-Flushing, Elmhurst and Jackson Heights, south into Ridgewood, Forest Hills, and Fresh Meadows, and  Murray Hill, Bayside, and Little Neck to the east.\nIn January 2019, the New York Post named Flushing as New York City's \"most dynamic outer-borough neighborhood.\""
+}, {
+    "id": "QN27",
+    "borough": "Queens",
+    "city": "East Elmhurst",
+    "description": "East Elmhurst is a culturally diverse area in the northwest section of the New York City borough of Queens, in the United States. It is located northeast of Jackson Heights and north of Corona.  The area includes LaGuardia Airport and is bounded on the east and north by Flushing Bay.\nResidents are mostly moderate-income families. East Elmhurst is a middle-class community.\nThe neighborhood is patrolled by the New York City Police Department's 115th Precinct; the airport is patrolled by the Port Authority Police Department. The neighborhood is part of Queens Community Board 3. The ZIP codes of East Elmhurst are 11369 and 11370. East Elmhurst and its southern neighbor Corona are often referred to jointly as \"Corona/East Elmhurst\"."
+}, {
+    "id": "QN07",
+    "borough": "Queens",
+    "city": "Hollis",
+    "description": "Hollis is a residential middle-class neighborhood within the southeastern section of the New York City borough of Queens. While a predominantly African-American community, there are small minorities of Hispanics and Indians residing in the area. Boundaries are considered to be 181st St to the west, Hillside Avenue to the north, Francis Lewis Boulevard to the east (although parts of Queens Village are addressed as Hollis on water bills), and Murdock Avenue to the south. Much of this area is considered to be within the St. Albans postal district. Hollis is close to Jamaica and Queens Village. The neighborhood is part of Queens Community Board 12. Hollis is patrolled by the NYPD's 113th Precinct. Public schools in the area are operated by the New York City Department of Education."
+}, {
+    "id": "MN06",
+    "borough": "Manhattan",
+    "city": "Manhattanville",
+    "description": "Manhattanville (also known as West Harlem or West Central Harlem) is a neighborhood in the New York City borough of Manhattan bordered on the north and south by West 134th Street and West 122nd Street, respectively; on the west by Morningside Park and on the east by Adam Clayton Powell Jr. Boulevard. Other sources show the neighborhood bordered on the north and south by West 135th Street and West 123rd Street, respectively; on the west by the Hudson River and on the east by the campus of City College.Throughout the 19th century, Manhattanville bustled around a wharf active with ferry and daily river conveyances. It was the first station on the Hudson River Railroad running north from the city, and the hub of daily stage coach, omnibus and streetcar lines. Situated near the famous Bloomingdale Road, its hotels, houses of entertainment and post office made it an alluring destination of suburban retreat from the city, yet its direct proximity to the Hudson River also made it an invaluable industrial entry point for construction materials and other freight bound for Upper Manhattan. With the construction of road and railway viaducts over the valley in which the town sat, Manhattanville, increasingly absorbed into the growing city, became a marginalized industrial area.\nIn the early 2000s, the neighborhood became the site of a major planned expansion of Columbia University, which has campuses in Morningside Heights to the south and Washington Heights to the north."
+}, {
+    "id": "QN02",
+    "borough": "Queens",
+    "city": "Springfield Gardens North",
+    "description": ""
+}, {
+    "id": "BX59",
+    "borough": "Bronx",
+    "city": "Westchester-Unionport",
+    "description": ""
+}, {
+    "id": "QN46",
+    "borough": "Queens",
+    "city": "Bayside-Bayside Hills",
+    "description": ""
+}, {
+    "id": "BK25",
+    "borough": "Brooklyn",
+    "city": "Homecrest",
+    "description": "Homecrest is a neighborhood situated in the New York City borough of Brooklyn, sometimes considered as part of Sheepshead Bay. It borders Kings Highway to the north, Avenue X to the south, Coney Island Avenue to the west, and Ocean Avenue to the east. Homecrest uses the ZIP Code, 11229. The area is served by Brooklyn Community Board 15. and policed by the NYPD's 61st Precinct.\n\n"
+}, {
+    "id": "BK95",
+    "borough": "Brooklyn",
+    "city": "Erasmus",
+    "description": ""
+}, {
+    "id": "QN41",
+    "borough": "Queens",
+    "city": "Fresh Meadows-Utopia",
+    "description": ""
+}, {
+    "id": "MN19",
+    "borough": "Manhattan",
+    "city": "Turtle Bay-East Midtown",
+    "description": ""
+}, {
+    "id": "BX33",
+    "borough": "Bronx",
+    "city": "Longwood",
+    "description": "Longwood is an urban, mixed use, primarily residential neighborhood geographically located in the southwest Bronx, New York City. The neighborhood is part of Bronx Community District 2. Its boundaries, starting from the north and moving clockwise are East 167th Street to the north, the Bronx River and the Bruckner Expressway to east, East 149th Street to the south, and Prospect Avenue to the west. Southern Boulevard is the primary thoroughfare through Longwood. The local subway are the 6 and <6>​ trains, operating along Southern Blvd. ZIP codes include 10455 and 10459. The neighborhood is served by the New York City Police Department's 41st Precinct. NYCHA property in the area is patrolled by P.S.A. 7 at 737 Melrose Avenue in the Melrose section of the Bronx."
+}, {
+    "id": "QN08",
+    "borough": "Queens",
+    "city": "St. Albans",
+    "description": "St. Albans is a residential middle class community in the New York City borough of Queens centered on the intersection of Linden Boulevard and Farmers Boulevard, about two miles north of JFK Airport. It is bordered by Jamaica to the northwest, Hollis to the north, Queens Village to the northeast, Cambria Heights to the east, Laurelton to the southeast, Springfield Gardens to the south, and South Jamaica to the southwest.\nThe neighborhood is part of Queens Community Board 12,\nand is served by the St. Albans Post Office, ZIP Code 11412. The population within the ZIP code, according to the 2010 census, was 34,882 – a decline of 7% from the 37,452 of 2000.The small western enclave of Addisleigh Park is a U.S. historic district where many notable African Americans have lived, including Jackie Robinson, W. E. B. Du Bois, and many jazz musicians and entertainers including Fats Waller, Ella Fitzgerald, Lena Horne, and Count Basie."
+}, {
+    "id": "QN25",
+    "borough": "Queens",
+    "city": "Corona",
+    "description": "Corona is a neighborhood in the borough of Queens in New York City. It is bordered by Flushing to the east, Jackson Heights to the west, Forest Hills and Rego Park to the south, Elmhurst to the southwest, and East Elmhurst to the north.  Corona has a multicultural population with a Latino majority, and is the site of historic African American and Italian American communities. After World War II, the majority of the neighborhood's residents were mostly Italian, German, Irish and of other European ancestries. Corona also has a significant Chinese population.Corona is bordered on the east by Flushing Meadows–Corona Park, one of the largest parks in New York City and the site of the 1939 and 1964 World's Fairs. Located within the park are Citi Field, which replaced Shea Stadium as home of the New York Mets baseball team in 2009, and the USTA Billie Jean King National Tennis Center, where the US Open in tennis is held annually. In North Corona is the northern section of the historic Corona neighborhood, created in 1978 with the formation of the city's Community Boards and Community Districts, and the need for coterminous borders.  Corona's main thoroughfares include Corona Avenue, Roosevelt Avenue, Northern Boulevard, Junction Boulevard, and 108th Street. The neighborhood is part of Queens Community Board 4, while the northernmost part is included in Community Board 3. Corona's ZIP code is 11368. Corona, with East Elmhurst, are often referred to as one combined area, Corona–East Elmhurst."
+}, {
+    "id": "BK69",
+    "borough": "Brooklyn",
+    "city": "Clinton Hill",
+    "description": "Clinton Hill is a neighborhood in north-central Brooklyn, a borough of New York City. It is bordered by the Brooklyn Navy Yard and the Brooklyn-Queens Expressway to the north,  Williamsburg to the northeast, Classon Avenue and Bedford–Stuyvesant to the east, Atlantic Avenue and Prospect Heights to the south and southwest and Vanderbilt Avenue and Fort Greene to the west.The neighborhood is served by the NYPD's 88th Precinct. \"The Hill\", as the general area was known – with a maximum elevation of 95 feet (29 m), the highest in the area – was believed to have health benefits because many people believed that disease was more prevalent in low-lying areas. The area is named after Clinton Avenue, which in turn was named in honor of New York Governor DeWitt Clinton (1769–1828).  The main thoroughfare is DeKalb Avenue.The affluent neighborhood's mixture of apartment buildings, mansions, brownstone and brick rowhouses, and the Pratt Institute and St. Joseph's College, built at various times in a number of different styles, is a great part of its charm."
+}, {
+    "id": "BK17",
+    "borough": "Brooklyn",
+    "city": "Sheepshead Bay-Gerritsen Beach-Manhattan Beach",
+    "description": ""
+}, {
+    "id": "QN06",
+    "borough": "Queens",
+    "city": "Jamaica Estates-Holliswood",
+    "description": ""
+}, {
+    "id": "BK44",
+    "borough": "Brooklyn",
+    "city": "Madison",
+    "description": "Sheepshead Bay is a bay separating the mainland of Brooklyn, New York City, from the eastern portion of Coney Island, the latter originally a barrier island but now effectively an extension of the mainland with peninsulas both east (the neighborhood of Manhattan Beach) and west (the neighborhoods of Coney Island and Sea Gate).  The mouth of the bay is about 1.0 mile (1.6 km) southwest of Marine Park, Brooklyn. The area is part of Brooklyn Community Board 15 and lies east of Gravesend and south of Midwood."
+}, {
+    "id": "BK41",
+    "borough": "Brooklyn",
+    "city": "Kensington-Ocean Parkway",
+    "description": ""
+}, {
+    "id": "BX10",
+    "borough": "Bronx",
+    "city": "Pelham Bay-Country Club-City Island",
+    "description": ""
+}, {
+    "id": "QN61",
+    "borough": "Queens",
+    "city": "Jamaica",
+    "description": "Jamaica is a middle-class neighborhood in the New York City borough of Queens. The neighborhood is part of Queens Community Board 12, which also includes Hollis, St. Albans, Springfield Gardens, Baisley Pond Park, Rochdale Village, and South Jamaica. The NYPD's 103rd, 113th & 105th Precincts patrol Jamaica.It was settled under Dutch rule in 1656 in New Netherland as Rustdorp. Under British rule, Jamaica became the center of the \"Town of Jamaica\". Jamaica was the county seat of Queens County from the formation of the county in 1683 until March 7, 1788, when the state government reorganized the town and the county seat moved to Mineola (now part of Nassau County). \nIn 1658 Robert Coe, his youngest son Benjamin Coe, and several others purchased a large tract of land south of what is now Jamaica, and settled there. The Dutch appointed Robert Coe magistrate for Jamaica in 1658, an office which he held until 1664.\nIn 1814, Jamaica became the first incorporated village on Long Island. When Queens was incorporated into the City of Greater New York in 1898, both the Town of Jamaica and the Village of Jamaica were dissolved, but the neighborhood of Jamaica regained its role as county seat. Today, some locals group Jamaica's surrounding neighborhoods into an unofficial Greater Jamaica, roughly corresponding to the former Town of Jamaica, including Richmond Hill, Woodhaven, St. Albans, Rosedale, Springfield Gardens, Hollis, Laurelton, Cambria Heights, Queens Village, Howard Beach and Ozone Park.Jamaica is the location of several government buildings including Queens Civil Court, the civil branch of the Queens County Supreme Court, the Queens County Family Court and the Joseph P. Addabbo Federal Building, home to the Social Security Administration's Northeastern Program Service Center. The U.S. Food and Drug Administration's Northeast Regional Laboratory as well as the New York District Office are also located in Jamaica. Jamaica Center, the area around Jamaica Avenue, is a major commercial center. The New York Racing Association, based at Aqueduct Racetrack in South Ozone Park, lists its official address as Jamaica (Central Jamaica once housed NYRA's Jamaica Racetrack, now the massive Rochdale Village housing development). John F. Kennedy International Airport and the hotels nearby also use Jamaica as their address."
+}, {
+    "id": "QN01",
+    "borough": "Queens",
+    "city": "South Jamaica",
+    "description": "South Jamaica (also commonly known as \"The Southside\") is a residential neighborhood in the borough of Queens in New York City, located south of downtown Jamaica. It is part of Queens Community Board 12. Although a proper border has not been established, the neighborhood is an overall subset of the greater Jamaica area that faces the Long Island Rail Road Main Line tracks, Jamaica Avenue or Liberty Avenue to the north; the Van Wyck Expressway on the west; and Merrick Boulevard toward the east, adjoining the neighboring community of St. Albans. Other primary thoroughfares of South Jamaica include Baisley, Foch, Linden, Guy R. Brewer, Sutphin, and Rockaway Boulevards.Considered a slum in the early 20th century, the neighborhood now consists of working-class and middle-class residents."
+}, {
+    "id": "QN33",
+    "borough": "Queens",
+    "city": "Cambria Heights",
+    "description": "Cambria Heights is a residential neighborhood in the southeastern portion of the New York City borough of Queens. It is bounded by Springfield Boulevard and Francis Lewis Boulevard to the west, the Elmont, Nassau County border on the east, Queens Village to the north, St. Albans to the west, and Montefiore Cemetery and Laurelton, Springfield Gardens and Rosedale to the south. As of 2010, Cambria Heights's population was 18,677. The neighborhood is part of Queens Community Board 13."
+}, {
+    "id": "QN70",
+    "borough": "Queens",
+    "city": "Astoria",
+    "description": "Astoria is a middle-class and commercial neighborhood in the New York City borough of Queens, bounded by the East River and is adjacent to three other Queens neighborhoods: Long Island City, Sunnyside (bordering at Northern Boulevard), and Woodside (bordering at 50th Street). It is located in Community Board 1, and is patrolled by the New York City Police Department's 114th Precinct. As of  2016, Astoria has an estimated population of 78,793."
+}, {
+    "id": "BK43",
+    "borough": "Brooklyn",
+    "city": "Midwood",
+    "description": "Midwood is a neighborhood in the south-central part of the New York City borough of Brooklyn. It is within Community District 14. Its State Senate district, per the reapportionment based the 2010 U.S. Census, is the 17th.\nIt is bounded on the north by the Bay Ridge Branch tracks just above Avenue I and by the Brooklyn College campus of the City University of New York, and on the south by Avenue P and Kings Highway. The eastern border consists of parts of Nostrand Avenue, Flatbush Avenue, and Coney Island Avenue; parts of McDonald Avenue and Ocean Parkway mark the western boundary.The neighborhood is served by the New York City Fire Department from a station on East 14th Street housing Engine 276, Ladder 156 and Battalion Chief 33."
+}, {
+    "id": "BK46",
+    "borough": "Brooklyn",
+    "city": "Ocean Parkway South",
+    "description": ""
+}, {
+    "id": "BK26",
+    "borough": "Brooklyn",
+    "city": "Gravesend",
+    "description": "Gravesend is a neighborhood in the south-central section of the New York City borough of Brooklyn, on the southwestern edge of Long Island in the U.S. state of New York. As of 2010, Gravesend had a population of 29,436.Gravesend was one of the original towns in the Dutch colony of New Netherland. After the English took over, it was one of the six original towns of Kings County in colonial New York. It was the only English chartered town in what became Kings County. It was designated as the \"Shire Town\" when the English assumed control in 1664, as it was the only one where records could be kept in English. Courts were removed to Flatbush in 1685.\nGravesend is notable as a town founded by a woman, Lady Deborah Moody. Governor Willem Kieft granted her and a group of English settlers a land patent on December 19, 1645.  Moody, along with John Tilton and wife Mary Pearsall Tilton, came to Gravesend after choosing excommunication, following religious persecution in Lynn, Massachusetts. Moody and Mary Tilton had been tried because of their Anabaptist beliefs, accused of spreading religious dissent in the Puritan colony.  John Tilton became the first town clerk of Gravesend and owned part of what later would become Coney Island. Moody, the Tiltons, and other early English settlers were known to have paid the Lenape for their land. Another prominent early settler was Anthony Janszoon van Salee. \nThe Town of Gravesend encompassed 7,000 acres (2,800 ha) in southern Kings County, including the entire island of Coney Island. This was originally used as the town's common lands on the Atlantic Ocean. It was divided, as was the town itself, into 41 parcels for the original patentees.  When the town was first laid out, almost half of the area was made up of salt marsh wetlands and sandhill dunes along the shore of Gravesend Bay.\nThe Town of Gravesend was annexed by the City of Brooklyn in 1894."
+}, {
+    "id": "BK29",
+    "borough": "Brooklyn",
+    "city": "Bensonhurst East",
+    "description": ""
+}, {
+    "id": "BK72",
+    "borough": "Brooklyn",
+    "city": "Williamsburg",
+    "description": "Williamsburg is a neighborhood in the New York City borough of Brooklyn, bordered by Greenpoint to the north; Bedford–Stuyvesant to the south; Bushwick, East Williamsburg, and Ridgewood, Queens to the east; and Fort Greene and the East River to the west. Part of Brooklyn Community Board 1, the neighborhood is served in the south by the NYPD's 90th Precinct and in the north by the 94th Precinct. On the New York City Council, the western and southern parts of the neighborhood are represented by the 33rd District; and its eastern part by the 34th District. As of the 2010 United States Census, the neighborhood's population is 32,926, an increase of 2.0% from 2000.Since the late 1990s, Williamsburg has undergone gentrification characterized by a contemporary art scene, hipster culture, and vibrant nightlife that has projected its image internationally as a 'Little Berlin'. During the early 2000s, the neighborhood became a center for indie rock and electroclash. Numerous ethnic groups still inhabit enclaves within the neighborhood, including Italians, Jews, Hispanics, Poles, Puerto Ricans, and Dominicans."
+}, {
+    "id": "BK75",
+    "borough": "Brooklyn",
+    "city": "Bedford",
+    "description": "Bedford–Stuyvesant (; colloquially known as Bed–Stuy and Bedford-Stuy) is a neighborhood in the north-central portion of the New York City borough of Brooklyn. The neighborhood is part of Brooklyn Community Board 3, with small sections located within Brooklyn Community Board 8 and Brooklyn Community Board 16. The neighborhood is patrolled by the NYPD's 79th and 81st precincts. In the City Council, the district is represented by Robert Cornegy of the 36th Council District.\nBedford–Stuyvesant is bordered by Flushing Avenue to the north (bordering Williamsburg), Classon Avenue to the west (bordering Clinton Hill), Broadway to the east (bordering Bushwick and East New York), and Atlantic Avenue to the south (bordering Crown Heights and Brownsville).  It is served by Postal Service ZIP Codes 11205, 11206, 11216, 11221, 11233, and 11238. The main north/south thoroughfare is Nostrand Avenue, but the main shopping street is Fulton Street; the latter lies above the main subway line for the area, on the A and ​C trains. Fulton Street runs east–west the length of the neighborhood and intersects high-traffic streets including Bedford Avenue, Nostrand Avenue, and Stuyvesant Avenue. Bedford–Stuyvesant actually comprises four neighborhoods: Bedford, Stuyvesant Heights, Ocean Hill, and Weeksville (also part of Crown Heights). Part of Clinton Hill was once considered part of Bedford–Stuyvesant.\nThe neighborhood is a major cultural center for Brooklyn's African American population. Following the construction of the IND Fulton Street Line in 1936, African Americans left an overcrowded Harlem for greater housing availability in Bedford–Stuyvesant. From Bedford–Stuyvesant, African Americans have since moved into the surrounding areas of Brooklyn, such as East New York, Crown Heights, Brownsville, and Fort Greene. Bedford–Stuyvesant has many historic brownstones. These homes were developed for the expanding middle- to upper-middle class from the 1890s to the late 1910s. Many of these homes contain highly ornamental detailing throughout their interiors and have classical architectural elements, such as brackets, quoins, fluting, finials, and elaborate frieze and cornice banding."
+}, {
+    "id": "BK35",
+    "borough": "Brooklyn",
+    "city": "Stuyvesant Heights",
+    "description": "Bedford–Stuyvesant (; colloquially known as Bed–Stuy and Bedford-Stuy) is a neighborhood in the north-central portion of the New York City borough of Brooklyn. The neighborhood is part of Brooklyn Community Board 3, with small sections located within Brooklyn Community Board 8 and Brooklyn Community Board 16. The neighborhood is patrolled by the NYPD's 79th and 81st precincts. In the City Council, the district is represented by Robert Cornegy of the 36th Council District.\nBedford–Stuyvesant is bordered by Flushing Avenue to the north (bordering Williamsburg), Classon Avenue to the west (bordering Clinton Hill), Broadway to the east (bordering Bushwick and East New York), and Atlantic Avenue to the south (bordering Crown Heights and Brownsville).  It is served by Postal Service ZIP Codes 11205, 11206, 11216, 11221, 11233, and 11238. The main north/south thoroughfare is Nostrand Avenue, but the main shopping street is Fulton Street; the latter lies above the main subway line for the area, on the A and ​C trains. Fulton Street runs east–west the length of the neighborhood and intersects high-traffic streets including Bedford Avenue, Nostrand Avenue, and Stuyvesant Avenue. Bedford–Stuyvesant actually comprises four neighborhoods: Bedford, Stuyvesant Heights, Ocean Hill, and Weeksville (also part of Crown Heights). Part of Clinton Hill was once considered part of Bedford–Stuyvesant.\nThe neighborhood is a major cultural center for Brooklyn's African American population. Following the construction of the IND Fulton Street Line in 1936, African Americans left an overcrowded Harlem for greater housing availability in Bedford–Stuyvesant. From Bedford–Stuyvesant, African Americans have since moved into the surrounding areas of Brooklyn, such as East New York, Crown Heights, Brownsville, and Fort Greene. Bedford–Stuyvesant has many historic brownstones. These homes were developed for the expanding middle- to upper-middle class from the 1890s to the late 1910s. Many of these homes contain highly ornamental detailing throughout their interiors and have classical architectural elements, such as brackets, quoins, fluting, finials, and elaborate frieze and cornice banding."
+}, {
+    "id": "BX41",
+    "borough": "Bronx",
+    "city": "Mount Hope",
+    "description": "Tremont, is a residential neighborhood in the West Bronx, New York City. The neighborhood is part of Bronx Community Board 6. Its boundaries, starting from the north and moving clockwise are: East 181st Street to the north, Third Avenue to the east, the Cross-Bronx Expressway to the south, and the Grand Concourse to the West. East Tremont Avenue is the primary thoroughfare through Tremont. The local subway is the IND Concourse Line (B and ​D trains), operating along the Grand Concourse. Zip codes include 10453 and 10457. The area is patrolled by the NYPD's 48th Precinct located at 450 Cross Bronx Expressway within Tremont."
+}, {
+    "id": "BK79",
+    "borough": "Brooklyn",
+    "city": "Ocean Hill",
+    "description": "Ocean Hill is a subsection of Bedford-Stuyvesant in the New York City borough of Brooklyn. The neighborhood is part of Brooklyn Community Board 16 and was founded in 1890. The ZIP code for the neighborhood is 11233. Ocean Hill's boundaries start from Broadway (Bushwick) in the north,  Ralph Avenue (Bedford-Stuyvesant) to the west, East New York Avenue (Crown Heights and Brownsville) in the south, and Van Sinderen Avenue (Cypress Hills) to the east."
+}, {
+    "id": "BK61",
+    "borough": "Brooklyn",
+    "city": "Crown Heights North",
+    "description": ""
+}, {
+    "id": "BK63",
+    "borough": "Brooklyn",
+    "city": "Crown Heights South",
+    "description": ""
+}, {
+    "id": "BK96",
+    "borough": "Brooklyn",
+    "city": "Rugby-Remsen Village",
+    "description": ""
+}, {
+    "id": "BX31",
+    "borough": "Bronx",
+    "city": "Allerton-Pelham Gardens",
+    "description": ""
+}, {
+    "id": "BK93",
+    "borough": "Brooklyn",
+    "city": "Starrett City",
+    "description": "Starrett City (informally and colloquially known as the Spring Creek Towers) is a housing development in the Spring Creek section of East New York, in Brooklyn, New York City. It is located on a peninsula on the north shore of Jamaica Bay, bounded by Fresh Creek to the west and Hendrix Creek to the east. Starrett City contains both residential and commercial buildings. The residential portion of the property contains eight \"sections\" in a towers in the park layout. The complex also contains a community and recreation center, as well as two schools.\nPlans for developing the site of Starrett City date to 1962, when an investment group bought the property with the intention of developing a residential complex called Park Shore Village. The group ultimately withdrew from the project, and another cooperative housing project named Twin Pines Village was proposed by the United Housing Foundation in 1967. Control of the complex was handed to Starrett City Associates in 1971, and Starrett City opened in 1974. The complex assumed the name of Spring Creek Towers in 2002, though it is still popularly known as Starrett City.\nThe neighborhood is part of Brooklyn Community Board 5. Starrett City is patrolled by the NYPD's 75th Precinct as well as by a private police force."
+}, {
+    "id": "BK91",
+    "borough": "Brooklyn",
+    "city": "East Flatbush-Farragut",
+    "description": ""
+}, {
+    "id": "QN20",
+    "borough": "Queens",
+    "city": "Ridgewood",
+    "description": "Ridgewood is a neighborhood in the New York City borough of Queens.  It borders the neighborhoods of Maspeth, Middle Village and Glendale, as well as the Brooklyn neighborhoods of Bushwick and East Williamsburg. Historically, the neighborhood straddled the Queens-Brooklyn boundary. The neighborhood is part of Queens Community Board 5."
+}, {
+    "id": "BX99",
+    "borough": "Bronx",
+    "city": "park-cemetery-etc-Bronx",
+    "description": ""
+}, {
+    "id": "BK78",
+    "borough": "Brooklyn",
+    "city": "Bushwick South",
+    "description": ""
+}, {
+    "id": "BK77",
+    "borough": "Brooklyn",
+    "city": "Bushwick North",
+    "description": ""
+}, {
+    "id": "BX37",
+    "borough": "Bronx",
+    "city": "Van Nest-Morris Park-Westchester Square",
+    "description": ""
+}, {
+    "id": "BK68",
+    "borough": "Brooklyn",
+    "city": "Fort Greene",
+    "description": "Fort Greene is a neighborhood in the New York City borough of Brooklyn. Part of Brooklyn Community Board 2 and served by the New York City Police Department's 88th Precinct, Fort Greene is listed on the New York State Registry and on the National Register of Historic Places, and is a New York City–designated Historic District. It is located in northwest Brooklyn in the area known as South Brooklyn, just across from Lower Manhattan and north of Prospect Park.\nThe neighborhood is named after an American Revolutionary War era fort that was built in 1776 under the supervision of General Nathanael Greene of Rhode Island. General Greene aided General George Washington during the Battle of Long Island in 1776. Fort Greene Park, originally called \"Washington Park\" and Brooklyn's first, is also derived from General Greene's name and from the neighborhood. In 1864, Fort Greene Park was redesigned by Frederick Law Olmsted and Calvert Vaux; the park notably includes the Prison Ship Martyrs' Monument and crypt, which honors some 11,500 patriots who died aboard British prison ships during the American Revolution.\nFort Greene contains many examples of mid-19th century Italianate and Eastlake architecture, most of which is well preserved. It is known for its many tree-lined streets and elegant low-rise housing. Fort Greene is also home to the Williamsburgh Savings Bank Tower, which, for over 80 years, was the tallest building in Brooklyn. The neighborhood is close to the Atlantic Terminal railway station and has access to many subway services."
+}, {
+    "id": "BK34",
+    "borough": "Brooklyn",
+    "city": "Sunset Park East",
+    "description": ""
+}, {
+    "id": "MN31",
+    "borough": "Manhattan",
+    "city": "Lenox Hill-Roosevelt Island",
+    "description": ""
+}, {
+    "id": "QN68",
+    "borough": "Queens",
+    "city": "Queensbridge-Ravenswood-Long Island City",
+    "description": ""
+}, {
+    "id": "QN42",
+    "borough": "Queens",
+    "city": "Oakland Gardens",
+    "description": "Bayside is a neighborhood in the New York City borough of Queens. The neighborhood is in the eastern section of Flushing and is part of Queens Community Board 11. CNN Money ranked Bayside as one of the most expensive housing markets nationally when analyzing comparable detached homes throughout the United States. Despite its large housing stock of free-standing homes, it nationally ranks high to very high in population density. These homes give the neighborhood a similar feel to other wealthy Queens neighborhoods such as Douglaston, Whitestone and Little Neck."
+}, {
+    "id": "BX49",
+    "borough": "Bronx",
+    "city": "Pelham Parkway",
+    "description": "Pelham Parkway is a working- and middle-class residential neighborhood geographically located in the center of the Bronx, a borough of New York City in the United States. The neighborhood is part of Bronx Community Board 11. Its boundaries, starting from the north and moving clockwise are: Waring Avenue to the north, the IRT Dyre Avenue Line tracks (5 train) to the east, Neill Avenue to the South, and Bronx River Parkway to the west. White Plains Road is the primary commercial thoroughfare through Bronx Park East.\nZip codes include 10461 and 10462. The area is patrolled by the New York City Police Department 49th Precinct located at 2121 Eastchester Road in the Morris Park section of the Bronx.\nPelham Parkway is a major parkway in the neighborhood, which gives way to the neighborhood's name, originally called The Bronx and Pelham Parkway."
+}, {
+    "id": "BK60",
+    "borough": "Brooklyn",
+    "city": "Prospect Lefferts Gardens-Wingate",
+    "description": ""
+}, {
+    "id": "BX08",
+    "borough": "Bronx",
+    "city": "West Farms-Bronx River",
+    "description": ""
+}, {
+    "id": "BX46",
+    "borough": "Bronx",
+    "city": "Parkchester",
+    "description": "Parkchester is a planned community originally developed by the Metropolitan Life Insurance Company and located in the central Bronx, New York City. The neighborhood is part of Bronx Community Board 9. Its boundaries, starting from the north and moving clockwise, are East Tremont Avenue to the north, Castle Hill Avenue to the east, East 177th Street-Westchester Avenue to the south (Westchester Avenue is the southern border east of Metropolitan Avenue), and White Plains Road to the west. Metropolitan Avenue is the primary thoroughfare through Parkchester.\nThe 6 and <6>​ trains of the New York City Subway operate along Westchester Avenue. The local ZIP code is 10462. The neighborhood is patrolled by the New York City Police Department's 43rd Precinct located at 900 Fteley Avenue in Soundview. The privately owned housing complex is patrolled by Parkchester Department of Public Safety. New York City Housing Authority (NYCHA) property in the area is patrolled by PSA 8 at 2794 Randall Avenue in Throggs Neck."
+}, {
+    "id": "BX55",
+    "borough": "Bronx",
+    "city": "Soundview-Bruckner",
+    "description": ""
+}, {
+    "id": "QN66",
+    "borough": "Queens",
+    "city": "Laurelton",
+    "description": "Laurelton is a largely middle-class neighborhood in the New York City borough of Queens and part of the former town of Jamaica. Merrick Boulevard, which bisects the community in a generally east–west direction, forms its commercial spine. It is bounded by Springfield Boulevard to the west, 121st Avenue to the north, Laurelton Parkway to the east, and Conduit Avenue to the south. The neighborhood is part of Queens Community Board 13.  Laurelton's ZIP Codes are 11413 and 11422.\n\n"
+}, {
+    "id": "SI08",
+    "borough": "Staten Island",
+    "city": "Grymes Hill-Clifton-Fox Hills",
+    "description": ""
+}, {
+    "id": "BK30",
+    "borough": "Brooklyn",
+    "city": "Dyker Heights",
+    "description": "Dyker Heights is an affluent residential neighborhood in the southwest corner of the borough of Brooklyn in New York City, US. It is on a hill between Bay Ridge, Bensonhurst, Borough Park, and Gravesend Bay. The neighborhood is officially bounded by 7th and 14th Avenues, 65th Street, and the Belt Parkway on the west, east, north, and south, respectively.Dyker Heights has a suburban character with detached and semi-detached one-and two-family homes, many of which have driveways and private yards, which are uncommon in parts of New York City. The neighborhood contains tree-lined streets, and there are very few apartment buildings. Dyker Heights can be divided in roughly three sections. The southernmost section, south of 86th Street and east of 7th Avenue, contains Dyker Beach Park and Golf Course. The central section between Bay Ridge Parkway and 86th Street, and between 14th Avenue and Fort Hamilton Parkway, is more exclusive in character. The northern border of the neighborhood is more closely integrated with surrounding areas. The Dyker Heights Civic Association, founded in 1928, is a civic group that represents the community's interests. The area as a whole is known for its Christmas lighting displays, which are often elaborate.Dyker Heights originated as a speculative luxury housing development in October 1895 when Walter Loveridge Johnson developed a portion of woodland into a suburban community. It maintained its status as a wealthy neighborhood through the 20th century. During the height of his development, the boundaries were primarily between Tenth Avenue and Thirteenth Avenue and from 79th Street to 86th Street. The finest homes of the development were situated along the top of the 110-foot (34 m) hill, at about Eleventh Avenue and 82nd Street.\n\n"
+}, {
+    "id": "BK23",
+    "borough": "Brooklyn",
+    "city": "West Brighton",
+    "description": ""
+}, {
+    "id": "QN19",
+    "borough": "Queens",
+    "city": "Glendale",
+    "description": "Glendale is a neighborhood in the west-central portion of the New York City borough of Queens. It is bounded by Forest Hills and Kew Gardens to the east, Ridgewood to the west, Woodhaven to the south, and Middle Village to the north.\nGlendale was originally built on a swampy area called Fresh Ponds. The neighborhood was later developed into an industrial area, though today it is a more residential neighborhood. Glendale's land area is long on its east-west axis and narrow on its north-south axis. The area is surrounded mainly by cemeteries, although the neighborhood also contains several large parks, including part of Forest Park."
+}, {
+    "id": "BX28",
+    "borough": "Bronx",
+    "city": "Van Cortlandt Village",
+    "description": "Van Cortlandt Village is a subsection of the Kingsbridge Heights neighborhood in the New York City borough of the Bronx. The neighborhood is part of Bronx Community Board 8. Named after Van Cortlandt Park, it is bordered by the Major Deegan Expressway to the west, the Jerome Park Reservoir to the east, West 238th Street to the south, and Van Cortlandt Park to the north. Its ZIP code is 10463."
+}, {
+    "id": "QN71",
+    "borough": "Queens",
+    "city": "Old Astoria",
+    "description": ""
+}, {
+    "id": "QN38",
+    "borough": "Queens",
+    "city": "Pomonok-Flushing Heights-Hillcrest",
+    "description": ""
+}, {
+    "id": "BK09",
+    "borough": "Brooklyn",
+    "city": "Brooklyn Heights-Cobble Hill",
+    "description": ""
+}, {
+    "id": "SI99",
+    "borough": "Staten Island",
+    "city": "park-cemetery-etc-Staten Island",
+    "description": ""
+}, {
+    "id": "BX07",
+    "borough": "Bronx",
+    "city": "Bronxdale",
+    "description": ""
+}, {
+    "id": "MN15",
+    "borough": "Manhattan",
+    "city": "Clinton",
+    "description": "Hell's Kitchen, sometimes known as Clinton, is a neighborhood on the West Side of Midtown Manhattan in New York City. It is traditionally considered to be bordered by 34th Street to the south, 59th Street to the north, Eighth Avenue to the east, and the Hudson River to the west. The area provides transport, medical, and warehouse-infrastructure support to Midtown's business district.\nOnce a bastion of poor and working class Irish Americans, Hell's Kitchen's location in Midtown has changed its personality since the 1970s. Though Hell's Kitchen's gritty reputation had long held real-estate prices below those of most other areas of Manhattan, by 1969, the City Planning Commission's Plan for New York City reported that development pressures related to its Midtown location were driving people of modest means from the area. Since the early 1990s, the area has been gentrifying, and rents have risen rapidly. Located close to both Broadway theatres and the Actors Studio training school, Hell's Kitchen has long been a home to learning and practicing actors, and, in recent years, to young Wall Street financiers."
+}, {
+    "id": "QN18",
+    "borough": "Queens",
+    "city": "Rego Park",
+    "description": "Rego Park is a neighborhood in the borough of Queens in New York City. Rego Park is bordered to the north by Elmhurst and Corona, the east and south by Forest Hills, and the west by Middle Village. Rego Park's boundaries include Queens Boulevard, the Long Island Expressway, Woodhaven Boulevard, and Yellowstone Boulevard. There is a large Jewish population in the neighborhood, which features high-rise apartment buildings and detached houses, as well as a large commercial zone.\nRego Park is represented by Queens Community Board 6 (CB 6)."
+}, {
+    "id": "QN26",
+    "borough": "Queens",
+    "city": "North Corona",
+    "description": "Corona is a neighborhood in the borough of Queens in New York City. It is bordered by Flushing to the east, Jackson Heights to the west, Forest Hills and Rego Park to the south, Elmhurst to the southwest, and East Elmhurst to the north.  Corona has a multicultural population with a Latino majority, and is the site of historic African American and Italian American communities. After World War II, the majority of the neighborhood's residents were mostly Italian, German, Irish and of other European ancestries. Corona also has a significant Chinese population.Corona is bordered on the east by Flushing Meadows–Corona Park, one of the largest parks in New York City and the site of the 1939 and 1964 World's Fairs. Located within the park are Citi Field, which replaced Shea Stadium as home of the New York Mets baseball team in 2009, and the USTA Billie Jean King National Tennis Center, where the US Open in tennis is held annually. In North Corona is the northern section of the historic Corona neighborhood, created in 1978 with the formation of the city's Community Boards and Community Districts, and the need for coterminous borders.  Corona's main thoroughfares include Corona Avenue, Roosevelt Avenue, Northern Boulevard, Junction Boulevard, and 108th Street. The neighborhood is part of Queens Community Board 4, while the northernmost part is included in Community Board 3. Corona's ZIP code is 11368. Corona, with East Elmhurst, are often referred to as one combined area, Corona–East Elmhurst."
+}, {
+    "id": "QN34",
+    "borough": "Queens",
+    "city": "Queens Village",
+    "description": "Queens Village is a mostly residential middle class neighborhood in the eastern part of the New York City borough of Queens. The Queens Village Post Office serves the ZIP codes of 11427 (Hollis Hills and Bellaire), 11428 (central Queens Village), and 11429 (Southern Queens Village south of the LIRR Main Line). The neighborhood is part of Queens Community Board 13.Shopping in the community is located along Braddock Avenue, Hillside Avenue, Hempstead Avenue, and Jamaica Avenue (NY 25), as well as on Springfield Boulevard. Located just east of Queens Village, in Nassau County, is the Belmont Park race track.\nClose to the neighborhood are Cunningham Park and Alley Pond Park, as well as the historic Long Island Motor Parkway (LIMP), home of the turn of the century racing competition, the Vanderbilt Cup. The LIMP was built by William Kissam Vanderbilt, a descendant of the family that presided over the New York Central Railroad and Western Union; it is now part of the Brooklyn-Queens Greenway used by bicyclists, joggers and nature trail lovers."
+}, {
+    "id": "QN43",
+    "borough": "Queens",
+    "city": "Bellerose",
+    "description": "Bellerose is a middle class neighborhood on the eastern edge of the New York City borough of Queens, along the border of Queens and Nassau County, Long Island. It is adjacent to Bellerose village and Bellerose Terrace in Nassau County, from which it is separated by Jericho Turnpike. The neighborhood is part of Queens Community Board 13. The northern edge of Bellerose is separated from another part of the Nassau border by the neighborhood of Floral Park, Queens to the east, divided by Little Neck Parkway. The neighborhood consists predominantly of detached houses with mostly Indian American, European American, and working and middle class populations. While the northeastern section of Queens Village is sometimes referred to as part of Bellerose, it is also called Bellerose Manor, which is recognized by the U.S. Postal Service as an \"acceptable alternate\" to Queens Village and Jamaica in postal addresses."
+}, {
+    "id": "BK85",
+    "borough": "Brooklyn",
+    "city": "East New York (Pennsylvania Ave)",
+    "description": ""
+}, {
+    "id": "QN21",
+    "borough": "Queens",
+    "city": "Middle Village",
+    "description": "Middle Village is a mainly residential neighborhood in the central section of the borough of Queens, New York City, bounded to the north by the Long Island Expressway, to the east by Woodhaven Boulevard, to the south by Cooper Avenue and the Montauk Branch railroad tracks, and to the west by Mount Olivet Cemetery.  A small trapezoid-shaped area bounded by Mt. Olivet Crescent to the east, Fresh Pond Road to the west, Eliot Avenue to the north, and Metropolitan Avenue to the south, is often counted as part of Middle Village but is sometimes considered part of nearby Ridgewood.\nMiddle Village is bordered by the neighborhoods of Elmhurst to the north, Maspeth and Ridgewood to the west, Glendale to the south, and Rego Park to the east. In 2003, South Elmhurst, an area between Eliot Avenue and the Long Island Expressway, was reassigned from Elmhurst's ZIP code of 11373 to Middle Village's ZIP code of 11379. The neighborhood is part of Queens Community District 5, served by Queens Community Board 5.  Housing in the neighborhood is largely single-family homes with many attached homes, and small apartment buildings."
+}, {
+    "id": "QN29",
+    "borough": "Queens",
+    "city": "Elmhurst",
+    "description": "Elmhurst (formerly Newtown) is a working/middle class neighborhood in the borough of Queens in New York City. It is bounded by Roosevelt Avenue on the north; the Long Island Expressway on the south; Junction Boulevard on the east; and the New York Connecting Railroad on the west. The neighborhood is part of Queens Community Board 4."
+}, {
+    "id": "BX62",
+    "borough": "Bronx",
+    "city": "Woodlawn-Wakefield",
+    "description": ""
+}, {
+    "id": "QN10",
+    "borough": "Queens",
+    "city": "Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",
+    "description": ""
+}, {
+    "id": "QN55",
+    "borough": "Queens",
+    "city": "South Ozone Park",
+    "description": "South Ozone Park is a neighborhood in the southwestern section of the New York City borough of Queens. Adjacently north of JFK Airport, its boundaries extend from the Aqueduct Racetrack eastward to the Van Wyck Expressway. Its main thoroughfare is Rockaway Boulevard. The neighborhood is part of Queens Community Board 10.Despite its name, South Ozone Park is mostly east of the neighborhood of Ozone Park. Richmond Hill lies to the north. Jamaica, South Jamaica, and Springfield Gardens are to the east. To the southwest are Howard Beach and Old Howard Beach.Rockaway Boulevard is South Ozone Park's main business strip. There is also a high concentration of small businesses along Liberty Avenue, which is also one of South Ozone Park's main source of revenue."
+}, {
+    "id": "QN47",
+    "borough": "Queens",
+    "city": "Ft. Totten-Bay Terrace-Clearview",
+    "description": ""
+}, {
+    "id": "QN49",
+    "borough": "Queens",
+    "city": "Whitestone",
+    "description": "Whitestone is a wealthy, upper middle-class residential neighborhood in the northernmost part of the New York City borough of Queens. The neighborhood proper is located between the East River to the north and 25th Avenue to the south. Whitestone is surrounded by College Point, Flushing, Bayside, Auburndale, Linden Hill, and Murray Hill.\nWhitestone contains the subsection of Malba, which is bounded to the north by the East River, to the east by the Whitestone Expressway, to the south by 14th Avenue, and to the west by 138th Street. Malba was cited in a New York Times article as one of the few \"elite enclaves\" of Queens."
+}, {
+    "id": "QN12",
+    "borough": "Queens",
+    "city": "Hammels-Arverne-Edgemere",
+    "description": ""
+}, {
+    "id": "QN15",
+    "borough": "Queens",
+    "city": "Far Rockaway-Bayswater",
+    "description": ""
+}, {
+    "id": "BK27",
+    "borough": "Brooklyn",
+    "city": "Bath Beach",
+    "description": "Bath Beach is a neighborhood in Brooklyn, New York City, United States. It is located at the southwestern edge of the borough on Gravesend Bay. The neighborhood borders Bensonhurst and New Utrecht across 86th Street; Dyker Beach Park and Golf Course across 14th Avenue; and Gravesend across Stillwell Avenue."
+}, {
+    "id": "BK28",
+    "borough": "Brooklyn",
+    "city": "Bensonhurst West",
+    "description": ""
+}, {
+    "id": "QN76",
+    "borough": "Queens",
+    "city": "Baisley Park",
+    "description": "South Jamaica (also commonly known as \"The Southside\") is a residential neighborhood in the borough of Queens in New York City, located south of downtown Jamaica. It is part of Queens Community Board 12. Although a proper border has not been established, the neighborhood is an overall subset of the greater Jamaica area that faces the Long Island Rail Road Main Line tracks, Jamaica Avenue or Liberty Avenue to the north; the Van Wyck Expressway on the west; and Merrick Boulevard toward the east, adjoining the neighboring community of St. Albans. Other primary thoroughfares of South Jamaica include Baisley, Foch, Linden, Guy R. Brewer, Sutphin, and Rockaway Boulevards.Considered a slum in the early 20th century, the neighborhood now consists of working-class and middle-class residents."
+}, {
+    "id": "QN30",
+    "borough": "Queens",
+    "city": "Maspeth",
+    "description": "Maspeth is a residential and commercial community in the borough of Queens in New York City. It was founded in the early 17th century by Dutch and English settlers. Neighborhoods sharing borders with Maspeth are Woodside to the north; Sunnyside to the northwest; Greenpoint, Brooklyn to the west; East Williamsburg, Brooklyn to the southwest; Fresh Pond and Ridgewood to the south; and Middle Village and Elmhurst to the east."
+}, {
+    "id": "SI48",
+    "borough": "Staten Island",
+    "city": "Arden Heights",
+    "description": "Arden Heights is a name increasingly applied to the western part of Annadale, a neighborhood located on the South Shore of Staten Island, New York, USA.  The name \"Arden Heights\" is found on most maps of New York City, including Hagstrom's.\nArden Heights is bordered by Annadale to the east, Huguenot to the south, the Arthur Kill to the west, and the Fresh Kills to the north."
+}, {
+    "id": "QN50",
+    "borough": "Queens",
+    "city": "Elmhurst-Maspeth",
+    "description": ""
+}, {
+    "id": "QN23",
+    "borough": "Queens",
+    "city": "College Point",
+    "description": "College Point is a working-middle-class neighborhood in the New York City borough of Queens.  It is located north of Flushing on Flushing Bay and the East River also part of the Queens Community Board 7. Willets Point Boulevard and the Whitestone Expressway are often the neighborhood's approximate boundaries with Flushing and Whitestone, respectively; College Point also borders Willets Point at the Flushing River at the extreme southwest corner. The 109th Precinct of the New York City Police Department (NYPD) serves College Point. College Point is a diverse community, mostly residential, with some industrial areas."
+}, {
+    "id": "QN63",
+    "borough": "Queens",
+    "city": "Woodside",
+    "description": "Woodside is a residential and commercial neighborhood in the western portion of the borough of Queens in New York City. It is bordered on the south by Maspeth, on the north by Astoria, on the west by Sunnyside, and on the east by Elmhurst and Jackson Heights. Some areas are widely residential and very quiet, while other parts, especially the ones around Roosevelt Avenue, are busier. The neighborhood is located in Queens Community Board 1 and Queens Community Board 2.In the 19th century the area was part of the Town of Newtown (now Elmhurst). The adjacent area of Winfield was largely incorporated into the post office serving Woodside and as a consequence Winfield lost much of its identity distinct from Woodside. However, with large-scale residential development in the 1860s, Woodside became the largest Irish American community in Queens, being approximately 80% Irish by the 1930s and maintaining a strong Irish culture today. In the early 1990s, many Asian American families moved into the area, with the population being 30% Asian American. South Asians and Latinos have also moved to Woodside in recent years.\nReflecting its longtime diverse foods and drink, the neighborhood is filled with many cultural restaurants and pubs. It is also home to some of the city's most popular Thai, Filipino, and South American eateries."
+}, {
+    "id": "QN37",
+    "borough": "Queens",
+    "city": "Kew Gardens Hills",
+    "description": "Kew Gardens Hills is a middle class neighborhood in the middle of the New York City borough of Queens. The western border is Flushing Meadows-Corona Park, on the north is Jewel Avenue, on the south is Union Turnpike and to the east is Parsons Boulevard (or 164th Street). Kew Gardens Hills roughly encompasses ZIP code 11367. The neighborhood is part of Queens Community Board 8.\nThe neighborhood is located near several highways including the Long Island Expressway, Grand Central Parkway, Van Wyck Expressway, and the Jackie Robinson Parkway (Interborough). It is also served by several bus routes. Adjacent neighborhoods include Forest Hills to the west, Hillcrest to the east, Briarwood to the south, and Queensboro Hill to the north."
+}, {
+    "id": "BX30",
+    "borough": "Bronx",
+    "city": "Kingsbridge Heights",
+    "description": "Kingsbridge Heights is a working class residential neighborhood geographically located in the northwest Bronx, New York City. The neighborhood is part of Bronx Community Board 8. Its boundaries are Van Cortlandt Park to the north, Jerome Avenue to the east, Kingsbridge Road to the south, and the Major Deegan Expressway to the west. Sedgwick Avenue is the primary thoroughfare through Kingsbridge Heights. Zip codes include 10463 and 10468. The area is patrolled by the 50th Precinct located at 3450 Kingsbridge Ave in Kingsbridge. NYCHA property in the area is patrolled by P.S.A. 8 at 2794 Randall Avenue in the Throgs Neck section of the Bronx.\n\n"
+}, {
+    "id": "BK76",
+    "borough": "Brooklyn",
+    "city": "Greenpoint",
+    "description": "Greenpoint is the northernmost neighborhood in the New York City borough of Brooklyn, in the U.S. state of New York. It is bordered on the southwest by Williamsburg at the Bushwick Inlet, on the southeast by the Brooklyn-Queens Expressway and East Williamsburg, on the north by Newtown Creek and Long Island City, Queens at the Pulaski Bridge, and on the west by the East River.\nThe neighborhood has a large Polish immigrant and Polish-American community, containing many Polish restaurants, markets, and businesses, and it has often been referred to as Little Poland.\nOriginally farmland – many of the farm owners' family names, such as Meserole (Messerole)  and Calyer, are current street names – the residential core of Greenpoint was built on parcels divided during the 19th century, with rope factories and lumber yards lining the East River to the west, while the northeastern section along the Newtown Creek through East Williamsburg became an industrial maritime area.\nGreenpoint has long held a reputation of being a working class and immigrant neighborhood, and it initially attracted families and workers with its abundance of factory jobs and longshoreman or dock work. Since the early 2000s, a building boom in the neighborhood, especially of multifamily dwellings, has made the neighborhood increasingly a center of nightlife and gentrification. There have also been efforts to reclaim the rezoned Greenpoint / Williamsburg East River waterfront for recreational use and also to extend a continuous promenade into the Newtown Creek area.The neighborhood is part of New York's 12th congressional district, State Senate Districts 18 and 26, State Assembly District 50, City Council District 33, and Brooklyn Community Board 1. The neighborhood is served by the NYPD's 94th Precinct  and the FDNY Engine 238 and Hook & Ladder 106."
+}, {
+    "id": "SI12",
+    "borough": "Staten Island",
+    "city": "Mariner's Harbor-Arlington-Port Ivory-Graniteville",
+    "description": ""
+}, {
+    "id": "BX98",
+    "borough": "Bronx",
+    "city": "Rikers Island",
+    "description": "Rikers Island () is New York City's main jail complex, as well as the name of the 413.17-acre (167.204 ha) island on which it sits, in the East River between Queens and the mainland Bronx, adjacent to the runways of LaGuardia Airport. Supposedly named after Abraham Rycken who bought the island in 1664, the island is home to one of the world's largest correctional institutions and mental institutions and has been described as New York's most famous jail. The island was originally under 100 acres (40 ha) in size, but has since grown over four times to more than 400 acres (160 ha). Much of the first stages of expansion was accomplished by convict labor hauling in ashes for landfill. The island itself is politically part of the Bronx, though it is included as part of Queens Community Board 1 and has a Queens ZIP Code of 11370.The jail complex, operated by the New York City Department of Correction, has a budget of $860 million a year, a staff of 9,000 officers and 1,500 civilians managing 100,000 admissions per year and an average daily population of 10,000 inmates. Approximately 85% of those detained at Rikers have not been convicted of a crime. Detainees include pretrial  defendants, either held on bail or remanded in custody. The rest of the population have been convicted and are serving short sentences. According to a study done in 2015 by Vera Institute of Justice, it costs the city approximately $209,000 to detain one person for one year at Rikers Island.Rikers has a reputation for abuse and neglect of inmates, attracting increased media and judicial scrutiny that has resulted in numerous rulings against the New York City government. It is also notorious for numerous assaults by inmates on uniformed and civilian staff, resulting in often serious injuries. In May 2013, Rikers Island ranked as one of the ten worst correctional facilities in the United States, based on reporting in Mother Jones magazine. Violence on Rikers Island has been increasing in recent years. In 2015 there were 9,424 assaults, the highest number in 5 years.In 2017, Mayor Bill de Blasio announced his intention to close the jail complex at Rikers Island within 10 years, if the city's crime rates stay low and the population at Rikers is reduced from 10,000 to 5,000.  He released the details of his plan in a report titled \"Smaller, Safer, Fairer: A roadmap to closing Rikers Island\" on June 22. In February 2018, a state oversight commission suggested that New York state might move to close the facility before that deadline."
+}, {
+    "id": "BX44",
+    "borough": "Bronx",
+    "city": "Williamsbridge-Olinville",
+    "description": ""
+}, {
+    "id": "SI28",
+    "borough": "Staten Island",
+    "city": "Port Richmond",
+    "description": "Port Richmond is a neighborhood situated on the North Shore of Staten Island, a borough of New York City. It is along the waterfront of the Kill Van Kull, with the southern terminus of the Bayonne Bridge serving as the boundary between it and Elm Park, the neighborhood which borders it on the west. Formerly an independent village, it is one of the oldest neighborhoods on the island. In the 19th century it was an important transportation and industrial center of the island, but this role has vanished nearly completely, leaving a largely blue collar residential area bypassed by the shift of development of the island to its interior after the 1960s. The formerly bustling commercial center along Richmond Avenue (now Port Richmond Avenue) had been largely abandoned at the time, But in recent years many small businesses have opened in the area with the commercial activity shifting inland to Forest Avenue (or leaving the neighborhood altogether and relocating to the Staten Island Mall when the latter opened in the summer of 1973)."
+}, {
+    "id": "BK73",
+    "borough": "Brooklyn",
+    "city": "North Side-South Side",
+    "description": ""
+}, {
+    "id": "BK81",
+    "borough": "Brooklyn",
+    "city": "Brownsville",
+    "description": "Brownsville is a residential neighborhood located in eastern Brooklyn in New York City. The 1.163-square-mile (3.01 km2) area that comprises Brownsville has 58,300 residents as of the 2010 United States Census. The neighborhood's boundaries are unclear, but it is generally bordered by Crown Heights to the northwest; Bushwick and Cypress Hills to the north; New Lots to the east; Canarsie to the south; and East Flatbush to the west.\nFounded in its current incarnation in 1858, initially a settlement composed of Jewish factory workers, Brownsville underwent a major demographic change in the 1950s that saw an influx of African-American and Latino residents. Since then, it has consistently held one of the highest poverty and crime rates of any neighborhood in New York City."
+}, {
+    "id": "SI07",
+    "borough": "Staten Island",
+    "city": "Westerleigh",
+    "description": "Westerleigh is a residential neighborhood in the northwestern part of Staten Island in New York City."
+}, {
+    "id": "BX52",
+    "borough": "Bronx",
+    "city": "Schuylerville-Throgs Neck-Edgewater Park",
+    "description": ""
+}, {
+    "id": "QN54",
+    "borough": "Queens",
+    "city": "Richmond Hill",
+    "description": "Richmond Hill is a commercial and residential neighborhood located in the southwestern section of the borough of Queens, in New York City, New York, United States. The neighborhood is split between Queens Community Board 9 and 10. The area borders Kew Gardens and Forest Park to the north, Jamaica and South Jamaica to the east, South Ozone Park to the south, and Woodhaven and Ozone Park to the west.\nRichmond Hill is known as Little Guyana-Trinidad and Tobago, for its large Indo-Guyanese, Indo-Trinidadian and Tobagonian, and Indo-Caribbean immigrant population, as well as Little Punjab, for its large Punjabi immigrant population. Richmond Hill is home to a density of Roman Catholic, Eastern Orthodox,      Christian, Sikh, Hindu, Jewish, and Muslim places of worship.\nMain commercial streets in the neighborhood include Jamaica Avenue, Atlantic Avenue and Liberty Avenue. The portion of the neighborhood south of Atlantic Avenue is also known as South Richmond Hill. The Long Island Rail Road provides freight access via the Montauk Branch, which runs diagonally through the neighborhood from northwest to southeast. The ZIP codes are 11418 for the main portion of Richmond Hill and 11419 for South Richmond Hill. Many residents own homes, though some also rent within small apartment buildings."
+}, {
+    "id": "QN22",
+    "borough": "Queens",
+    "city": "Flushing",
+    "description": "Flushing is a neighborhood in the New York City borough of Queens in the United States. While much of the neighborhood is residential, Downtown Flushing, centered on the northern end of Main Street in Queens, is a large commercial and retail area and is the fourth largest central business district in New York City.Flushing's diversity is reflected by the numerous ethnic groups that reside there, including people of Asian, Hispanic, Middle Eastern, European, and African American ancestry. It is part of New York's Sixth Congressional District, which is located entirely within Queens County. Flushing is served by five railroad stations on the Long Island Rail Road Port Washington Branch, as well as the New York City Subway's IRT Flushing Line (7 and <7>​ trains), which has its terminus at Main Street. The intersection of Main Street and Roosevelt Avenue is the third busiest intersection in New York City, behind Times and Herald Squares.The neighborhood of Flushing is part of Queens Community Board 7 and the broader district of Flushing in Queens County. The Flushing \"neighborhood\" is bounded by Flushing Meadows–Corona Park to the west, Kissena Boulevard to the east, the Long Island Expressway to the south, and Willets Point Boulevard to the north.\nZIP codes beginning with 113 are administered from a sectional center at the Flushing Post Office. The 113-prefixed area extends northwest from Broadway-Flushing, Elmhurst and Jackson Heights, south into Ridgewood, Forest Hills, and Fresh Meadows, and  Murray Hill, Bayside, and Little Neck to the east.\nIn January 2019, the New York Post named Flushing as New York City's \"most dynamic outer-borough neighborhood.\""
+}, {
+    "id": "QN62",
+    "borough": "Queens",
+    "city": "Queensboro Hill",
+    "description": "Flushing is a neighborhood in the New York City borough of Queens in the United States. While much of the neighborhood is residential, Downtown Flushing, centered on the northern end of Main Street in Queens, is a large commercial and retail area and is the fourth largest central business district in New York City.Flushing's diversity is reflected by the numerous ethnic groups that reside there, including people of Asian, Hispanic, Middle Eastern, European, and African American ancestry. It is part of New York's Sixth Congressional District, which is located entirely within Queens County. Flushing is served by five railroad stations on the Long Island Rail Road Port Washington Branch, as well as the New York City Subway's IRT Flushing Line (7 and <7>​ trains), which has its terminus at Main Street. The intersection of Main Street and Roosevelt Avenue is the third busiest intersection in New York City, behind Times and Herald Squares.The neighborhood of Flushing is part of Queens Community Board 7 and the broader district of Flushing in Queens County. The Flushing \"neighborhood\" is bounded by Flushing Meadows–Corona Park to the west, Kissena Boulevard to the east, the Long Island Expressway to the south, and Willets Point Boulevard to the north.\nZIP codes beginning with 113 are administered from a sectional center at the Flushing Post Office. The 113-prefixed area extends northwest from Broadway-Flushing, Elmhurst and Jackson Heights, south into Ridgewood, Forest Hills, and Fresh Meadows, and  Murray Hill, Bayside, and Little Neck to the east.\nIn January 2019, the New York Post named Flushing as New York City's \"most dynamic outer-borough neighborhood.\""
+}, {
+    "id": "MN27",
+    "borough": "Manhattan",
+    "city": "Chinatown",
+    "description": "Manhattan's Chinatown (simplified Chinese: 曼哈顿华埠; traditional Chinese: 曼哈頓華埠; pinyin: Mànhādùn huábù; Jyutping: Maan6haa1deon6 waa1bou6) is a neighborhood in Lower Manhattan, New York City, bordering the Lower East Side to its east, Little Italy to its north, Civic Center to its south, and Tribeca to its west. Chinatown is home to the highest concentration of Chinese people in the Western Hemisphere. With an estimated population of 90,000 to 100,000 people, Manhattan's Chinatown is also one of the oldest Chinese ethnic enclaves. The Manhattan Chinatown is one of nine Chinatown neighborhoods in New York City, as well as one of twelve in the New York metropolitan area, which contains the largest ethnic Chinese population outside of Asia, comprising an estimated 819,527 uniracial individuals as of 2014.Historically, Chinatown was primarily populated by Cantonese speakers. However, in the 1980s and 1990s, large numbers of Fuzhounese-speaking immigrants also arrived and formed a sub-neighborhood annexed to the eastern portion of Chinatown, which has become known as Little Fuzhou (小福州). As many Fuzhounese and Cantonese speakers now speak Mandarin—the official language in China and Taiwan—in addition to their native languages, this has made it more important for Chinatown residents to learn and speak Mandarin. Although now overtaken in size by the rapidly growing Flushing Chinatown (法拉盛華埠), located in the nearby borough of Queens – also within New York City – the Manhattan Chinatown remains a dominant cultural force for the Chinese diaspora, as home to the Museum of Chinese in America and as the headquarters of numerous publications based both in the U.S. and China that are geared to overseas Chinese."
+}, {
+    "id": "QN17",
+    "borough": "Queens",
+    "city": "Forest Hills",
+    "description": "Forest Hills is a mostly residential neighborhood in the central portion of the borough of Queens in New York City. The north, east, and south boundaries are the Long Island Expressway, Grand Central Parkway, and Union Turnpike, respectively. Google Maps shows the western boundary running roughly along 102nd Street, 67th Avenue, and the Long Island Rail Road's former Rockaway Beach Branch; while the Encyclopedia of New York City defines the western boundary as Junction Boulevard and the former Rockaway Beach Branch. The area was originally referred to as \"Whitepot\".Forest Hills has a great tradition of tennis, with Forest Hills Stadium having hosted the U.S. Open until 1978 and the West Side Tennis Club offering pristine grass courts for its members. Bustling Austin Street bisects Forest Hills and boasts many restaurants and chain stores. Forest Hills is bordered by Flushing Meadows–Corona Park and Forest Park.",
+    "zip_code": "11375",
+    "ethnicity": {
+        "White": 0.5958,
+        "Asian": 0.237,
+        "Hispanic": 0.1203,
+        "Black": 0.373
+    },
+    "subways": ["E", "F", "M", "R"],
+    "busses": ["Q23", "Q60", "Q64"]
+}, {
+    "id": "MN35",
+    "borough": "Manhattan",
+    "city": "Washington Heights North",
+    "description": ""
+}, {
+    "id": "QN72",
+    "borough": "Queens",
+    "city": "Steinway",
+    "description": "Astoria is a middle-class and commercial neighborhood in the New York City borough of Queens, bounded by the East River and is adjacent to three other Queens neighborhoods: Long Island City, Sunnyside (bordering at Northern Boulevard), and Woodside (bordering at 50th Street). It is located in Community Board 1, and is patrolled by the New York City Police Department's 114th Precinct. As of  2016, Astoria has an estimated population of 78,793."
+}, {
+    "id": "SI01",
+    "borough": "Staten Island",
+    "city": "Annadale-Huguenot-Prince's Bay-Eltingville",
+    "description": ""
+}, {
+    "id": "MN25",
+    "borough": "Manhattan",
+    "city": "Battery Park City-Lower Manhattan",
+    "description": ""
+}, {
+    "id": "MN14",
+    "borough": "Manhattan",
+    "city": "Lincoln Square",
+    "description": "Lincoln Square is the name of both a square and the surrounding neighborhood within the Upper West Side of the New York City borough of Manhattan.  Lincoln Square is centered on the intersection of Broadway and Columbus Avenue, between West 65th and West 66th streets. The neighborhood is bounded by Columbus Avenue and Amsterdam Avenue to the east and west, and West 66th and 63rd Street to the north and south. However, the term can be extended to have the neighborhood between West 59th Street and West 72nd Street. It is bounded by Hell's Kitchen, Riverside South, Central Park, and the Upper West Side proper.\nThe area is served by the 66th Street – Lincoln Center subway station (1 and ​2 trains) and anchored by Lincoln Center for the Performing Arts. Tourist information, sidewalk trash removal, and security patrol services are provided by the Lincoln Square BID."
+}, {
+    "id": "MN17",
+    "borough": "Manhattan",
+    "city": "Midtown-Midtown South",
+    "description": ""
+}, {
+    "id": "MN40",
+    "borough": "Manhattan",
+    "city": "Upper East Side-Carnegie Hill",
+    "description": ""
+}, {
+    "id": "QN53",
+    "borough": "Queens",
+    "city": "Woodhaven",
+    "description": "Woodhaven is a middle-class neighborhood located in the central section of the New York City borough of Queens. Woodhaven, once known as Woodville, has one of the greatest tree populations in the borough and is known for its proximity to the hiking trails of Forest Park. Between the bustling shops and subway line of Jamaica Avenue and the quieter neighborhood that surrounds it, Woodhaven is both urban and suburban. Its retains the small-town feel of bygone days and is home to people of many different ethnicities."
+}, {
+    "id": "QN56",
+    "borough": "Queens",
+    "city": "Ozone Park",
+    "description": "Ozone Park is a neighborhood located in the southwestern section of the borough of Queens, in New York City, New York, United States. It is located next to the Aqueduct Racetrack in South Ozone Park, a popular spot for Thoroughbred racing. The neighborhood was known for its large Italian-American population. Over the years, it has become a very diverse community.\nThe northern border is Atlantic Avenue; the southern border is South Conduit Avenue, the western border is the Brooklyn/Queens border line; and the eastern border is up to 108th Street and Aqueduct Racetrack. (The border with Brooklyn runs mostly along Eldert Lane and 75th and Drew Streets.) Different parts of the neighborhood are covered by Queens Community Board 9 and 10, as well as by New York City Police Department's 102nd and 106th Precincts. Ozone Park is also represented by three civic organizations: Our Neighbors Civic Association, Ozone Park Residents Block Association, and Ozone Tudor Civic Association."
+}, {
+    "id": "SI25",
+    "borough": "Staten Island",
+    "city": "Oakwood-Oakwood Beach",
+    "description": ""
+}, {
+    "id": "SI54",
+    "borough": "Staten Island",
+    "city": "Great Kills",
+    "description": "Great Kills is a neighborhood within New York City's borough of Staten Island. It is located on the island's South Shore, and according to many local geographers, it is the South Shore's northernmost community. It is bordered by Richmondtown to the north, Bay Terrace to the east, Eltingville to the west, and Great Kills Harbor to the south.Kill is an archaic Dutch word with various popular translations, including \"creek\" and \"channel\". Indeed, many small streams dot the neighborhood, and the name can be interpreted as meaning that a great number of such streams can be found there.The neighborhood is represented in the New York City Council by Joseph Borelli.\n\n"
+}, {
+    "id": "BX26",
+    "borough": "Bronx",
+    "city": "Highbridge",
+    "description": "Highbridge is a residential neighborhood geographically located in the central-west section of the Bronx, New York City. Its boundaries, starting from the north and moving clockwise are the Cross-Bronx Expressway to the north, Jerome Avenue to the east, East 161st Street to the south, and the Harlem River to the west. Ogden Avenue is the primary thoroughfare through Highbridge. ZIP codes include 10451, 10452, and 10456."
+}, {
+    "id": "MN11",
+    "borough": "Manhattan",
+    "city": "Central Harlem South",
+    "description": ""
+}, {
+    "id": "BK19",
+    "borough": "Brooklyn",
+    "city": "Brighton Beach",
+    "description": "Brighton Beach is an neighborhood in the southern portion of the New York City borough of Brooklyn, along the Coney Island peninsula and facing the Atlantic Ocean. According to the 2010 United States Census report, the Brighton Beach and Coney Island area, combined, had more than 110,000 residents. Brighton Beach is bounded by Coney Island proper at Ocean Parkway to the west, Manhattan Beach at Corbin Place to the east, Sheepshead Bay at the Belt Parkway to the north, and the Atlantic Ocean to the south along the beach and boardwalk.\nIt is known for its high population of Russian-speaking immigrants, and as a summer destination for New York City residents due to its beaches along the Atlantic Ocean and its proximity to the amusement parks in Coney Island."
+}, {
+    "id": "BK21",
+    "borough": "Brooklyn",
+    "city": "Seagate-Coney Island",
+    "description": ""
+}, {
+    "id": "SI45",
+    "borough": "Staten Island",
+    "city": "New Dorp-Midland Beach",
+    "description": ""
+}, {
+    "id": "MN50",
+    "borough": "Manhattan",
+    "city": "Stuyvesant Town-Cooper Village",
+    "description": ""
+}, {
+    "id": "SI05",
+    "borough": "Staten Island",
+    "city": "New Springville-Bloomfield-Travis",
+    "description": ""
+}, {
+    "id": "BK38",
+    "borough": "Brooklyn",
+    "city": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",
+    "description": ""
+}, {
+    "id": "SI22",
+    "borough": "Staten Island",
+    "city": "West New Brighton-New Brighton-St. George",
+    "description": ""
+}, {
+    "id": "SI35",
+    "borough": "Staten Island",
+    "city": "New Brighton-Silver Lake",
+    "description": ""
+}, {
+    "id": "QN57",
+    "borough": "Queens",
+    "city": "Lindenwood-Howard Beach",
+    "description": ""
+}, {
+    "id": "BX22",
+    "borough": "Bronx",
+    "city": "North Riverdale-Fieldston-Riverdale",
+    "description": ""
+}, {
+    "id": "BX29",
+    "borough": "Bronx",
+    "city": "Spuyten Duyvil-Kingsbridge",
+    "description": ""
+}, {
+    "id": "BK40",
+    "borough": "Brooklyn",
+    "city": "Windsor Terrace",
+    "description": "Windsor Terrace is a small residential neighborhood in the northwestern part of the New York City borough of Brooklyn. As of the 2010 United States Census, Windsor Terrace had 20,988 people living within its 0.503-square-mile (1.30 km2) area. Its ZIP codes are 11215 and 11218.\nWindsor Terrace is situated between Prospect Park on the east and northeast, Park Slope to the northwest, Green-Wood Cemetery to the southwest, and Kensington to the south. It is considered to be within the area historically known as South Brooklyn. A part of Community Board 7, the neighborhood is patrolled by the NYPD's 72nd Precinct and protected by FDNY's Engine Company 240.\n\n"
+}, {
+    "id": "BK64",
+    "borough": "Brooklyn",
+    "city": "Prospect Heights",
+    "description": "Prospect Heights is a neighborhood in the northwest of the New York City borough of Brooklyn. The traditional boundaries are Flatbush Avenue to the west, Atlantic Avenue to the north, Eastern Parkway – beginning at Grand Army Plaza – to the south, and Washington Avenue to the east. In the northern section of Prospect Heights are the Vanderbilt Rail Yards, built over as part of the Pacific Park (formerly Atlantic Yards) project. The Barclays Center, home to the NBA's Brooklyn Nets basketball team and the NHL's New York Islanders ice hockey team, is located in the northwestern corner of the neighborhood in Pacific Park at Flatbush and Atlantic Avenues.\nCompared to other Brooklyn neighborhoods, Prospect Heights is relatively small and is notable for its cultural diversity as well as its tree-lined streets. Prospect Heights has seen rapid demographic changes over the last decade, and its shifts are exemplified by a mixture of older buildings under reconstruction, rows of classic 1890s brownstones, and newly built luxury condominiums. The neighborhood is served by the New York Police Department's 77th Precinct."
+}, {
+    "id": "BK42",
+    "borough": "Brooklyn",
+    "city": "Flatbush",
+    "description": "Flatbush is a neighborhood in the New York City borough of Brooklyn. Founded in 1651 by Dutch colonists, the neighborhood, which consists of several subsections, had a population of 110,875 as of the 2010 United States Census. \nFlatbush was a town prior to being incorporated into the City of Brooklyn, and its former border runs through the Brooklyn Botanic Garden. Generally, the township was larger than what is considered Flatbush today by the residents of Brooklyn.  The modern neighborhood includes or borders several institutions of note, including Prospect Park and Brooklyn College."
+}, {
+    "id": "BX27",
+    "borough": "Bronx",
+    "city": "Hunts Point",
+    "description": "Hunts Point is a neighborhood located on a peninsula in the South Bronx of New York City. It is the location of one of the largest food distribution facilities in the world, the Hunts Point Cooperative Market. The neighborhood is part of Bronx Community District 2. Its boundaries are the Bruckner Expressway to the west and north, the Bronx River to the east, and the East River to the south. Hunts Point Avenue is the primary street through Hunts Point. ZIP codes include 10474. The neighborhood is served by the New York City Police Department's 41st Precinct."
+}, {
+    "id": "BK45",
+    "borough": "Brooklyn",
+    "city": "Georgetown-Marine Park-Bergen Beach-Mill Basin",
+    "description": ""
+}, {
+    "id": "BK50",
+    "borough": "Brooklyn",
+    "city": "Canarsie",
+    "description": "Canarsie ( kə-NAR-see) is a working- and middle-class residential and commercial neighborhood in the southeastern portion of the borough of Brooklyn, in New York City, United States. Canarsie is bordered on the east by Fresh Creek Basin, East 108th Street, and the BMT Canarsie Line (L train); on the north by Linden Boulevard; on the west by Remsen Avenue to Ralph Avenue and the Paerdegat Basin; and on the south by Jamaica Bay. It is adjacent to the East Flatbush, Flatlands, Mill Basin, Bergen Beach, and East New York neighborhoods.\nThe area near Canarsie was originally settled by the Lenape Native Americans. The community's name is adapted from a Lenape word meaning \"fenced area\". After European settlement, Canarsie was initially a fishing community, but became a popular summer resort in the late 19th and early 20th centuries. By the late 1930s and early 1940, the resorts had been destroyed, and Canarsie was developed as a mostly white suburb. In the 1970s, racial tensions developed around an argument over the zoning of the area's schools, and in the aftermath, Canarsie became a mainly black neighborhood with a high Caribbean and West Indian population.\nThe area is part of Brooklyn Community Board 18. It is patrolled by the NYPD's 69th Precinct. Canarsie is also served by Engine 257, Ladder 170 of the FDNY, and Station 58 of the FDNY Bureau of EMS."
+}, {
+    "id": "BK58",
+    "borough": "Brooklyn",
+    "city": "Flatlands",
+    "description": "Flatlands is a neighborhood in the southeast part of the borough of Brooklyn in New York City. The area is part of Brooklyn Community Board 18.Originally an independent town, Flatlands became part of the City of Brooklyn in 1896.The current neighborhood borders are roughly defined by Avenue H to the north, Avenue U to the south, Ralph Avenue to the east, Flatbush Avenue to the southwest and Nostrand Avenue to the northwest."
+}, {
+    "id": "BK32",
+    "borough": "Brooklyn",
+    "city": "Sunset Park West",
+    "description": ""
+}, {
+    "id": "QN44",
+    "borough": "Queens",
+    "city": "Glen Oaks-Floral Park-New Hyde Park",
+    "description": ""
+}, {
+    "id": "QN45",
+    "borough": "Queens",
+    "city": "Douglas Manor-Douglaston-Little Neck",
+    "description": ""
+}, {
+    "id": "QN35",
+    "borough": "Queens",
+    "city": "Briarwood-Jamaica Hills",
+    "description": ""
+}, {
+    "id": "QN60",
+    "borough": "Queens",
+    "city": "Kew Gardens",
+    "description": "Kew Gardens is a neighborhood in the central area of the New York City borough of Queens. Kew Gardens, shaped roughly like a triangle, is bounded to the north by Union Turnpike and the Jackie Robinson Parkway (formerly the Interboro Parkway), to the east by Van Wyck Expressway and 131st Street, to the south by Hillside Avenue, and to the west by Park Lane, Abingdon Road, and 118th Street. Forest Park and the neighborhood of Forest Hills are to the west, Flushing Meadows–Corona Park north, Richmond Hill south, Briarwood southeast, and Kew Gardens Hills east."
+}, {
+    "id": "BX09",
+    "borough": "Bronx",
+    "city": "Soundview-Castle Hill-Clason Point-Harding Park",
+    "description": ""
+}, {
+    "id": "QN28",
+    "borough": "Queens",
+    "city": "Jackson Heights",
+    "description": "Jackson Heights is a neighborhood in the northwestern portion of the borough of Queens in New York City. The neighborhood is part of Queens Community Board 3. Jackson Heights is neighbored by North Corona to the east, Elmhurst to the south, Woodside to the west, northern Astoria (Ditmars-Steinway) to the northwest,  and East Elmhurst to the northeast. The main ZIP code of Jackson Heights is 11372. According to the 2010 United States Census, the neighborhood has a population of 108,152."
+}, {
+    "id": "QN98",
+    "borough": "Queens",
+    "city": "Airport",
+    "description": ""
+}, {
+    "id": "BK37",
+    "borough": "Brooklyn",
+    "city": "Park Slope-Gowanus",
+    "description": ""
+}, {
+    "id": "BK90",
+    "borough": "Brooklyn",
+    "city": "East Williamsburg",
+    "description": "East Williamsburg is a name for the area in the northwestern portion of the borough of Brooklyn in New York City, United States, which lies between Williamsburg, Greenpoint, and Bushwick. Much of this area is still referred to as either Bushwick, Williamsburg, or Greenpoint with the term East Williamsburg falling out of use since the 1990s. East Williamsburg consists roughly of what was the 3rd District of the Village of Williamsburg and what is now called the East Williamsburg In-Place Industrial Park (EWIPIP), bounded by the neighborhoods of Northside and Southside Williamsburg to the west, Greenpoint to the north, Bushwick to the south and southeast, and both Maspeth and Ridgewood in Queens to the east."
+}, {
+    "id": "QN31",
+    "borough": "Queens",
+    "city": "Hunters Point-Sunnyside-West Maspeth",
+    "description": ""
+}, {
+    "id": "BK33",
+    "borough": "Brooklyn",
+    "city": "Carroll Gardens-Columbia Street-Red Hook",
+    "description": ""
+}, {
+    "id": "MN20",
+    "borough": "Manhattan",
+    "city": "Murray Hill-Kips Bay",
+    "description": ""
+}, {
+    "id": "MN09",
+    "borough": "Manhattan",
+    "city": "Morningside Heights",
+    "description": "Morningside Heights is a neighborhood of the borough of Manhattan in New York City, on the border of the Upper West Side and Harlem.Morningside Heights is bounded by Morningside Park at Morningside Drive to the east, Manhattanville at 125th Street to the north, Manhattan Valley at 110th Street to the south, and Riverside Park at Riverside Drive to the west. The main thoroughfare is Broadway.\nIt is chiefly known as the home of educational and cultural institutions such as Columbia University, Teachers College, Barnard College, the Manhattan School of Music, Bank Street College of Education, \"Grant's Tomb\", Union Theological Seminary in the City of New York and the Jewish Theological Seminary of America. Additionally, Morningside Heights contains a number of religious institutions, including the Cathedral of Saint John the Divine, Riverside Church, the Church of Notre Dame, Corpus Christi Church, the Broadway Presbyterian Church and Interchurch Center. The neighborhood is also home to St. Luke's Hospital. Most of the neighborhood is part of New York's 10th congressional district since 2013.In 2017, the New York City Landmarks Preservation Commission created the Morningside Heights Historic District.  The district includes 115 residential and institutional properties on West 109th Street west of Broadway, east and west of Broadway from Cathedral Parkway to West 113th Street, west of Broadway from West 113th Street to 118th Street, and west of Claremont Avenue from West 118th to 119th Street."
+}, {
+    "id": "SI11",
+    "borough": "Staten Island",
+    "city": "Charleston-Richmond Valley-Tottenville",
+    "description": ""
+}, {
+    "id": "SI32",
+    "borough": "Staten Island",
+    "city": "Rossville-Woodrow",
+    "description": ""
+}, {
+    "id": "BK83",
+    "borough": "Brooklyn",
+    "city": "Cypress Hills-City Line",
+    "description": ""
+}, {
+    "id": "MN03",
+    "borough": "Manhattan",
+    "city": "Central Harlem North-Polo Grounds",
+    "description": ""
+}, {
+    "id": "BK82",
+    "borough": "Brooklyn",
+    "city": "East New York",
+    "description": "East New York is a residential neighborhood in the eastern section of the borough of Brooklyn in New York City, United States. The neighborhood is part of Brooklyn Community District 5, covered by Brooklyn Community Board 5. Its boundaries, starting from the north and moving clockwise are: Cypress Hills Cemetery to the north, the Borough of Queens to the east, Jamaica Bay to the south, and the Bay Ridge Branch railway tracks next to Van Sinderen Avenue to the west. Linden Boulevard and Atlantic Avenue are the primary thoroughfares through East New York. Its ZIP Codes include 11207, 11208, and 11239. The area is patrolled by the 75th Precinct located at 1000 Sutter Avenue. New York City Housing Authority (NYCHA) property in the area is patrolled by P.S.A. 2. During the latter part of the twentieth century, East New York came to be predominantly inhabited by African Americans and Latinos."
+}, {
+    "id": "MN32",
+    "borough": "Manhattan",
+    "city": "Yorkville",
+    "description": "Yorkville is a neighborhood in the Upper East Side of Manhattan, New York City. Its southern boundary is East 79th Street, its northern East 96th Street, its western Third Avenue, and its eastern the East River.The neighborhood, in Manhattan Community Board 8, is among the most affluent in the city."
+}, {
+    "id": "QN48",
+    "borough": "Queens",
+    "city": "Auburndale",
+    "description": "Auburndale is an upper-middle-class neighborhood in the northern part of the New York City borough of Queens, between Bayside and Murray Hill. The neighborhood is part of Queens Community Board 11.The name comes from Auburndale, Massachusetts, the home of L. H. Green who developed the community starting in 1901, when the Long Island Railroad started offering train service to the area.The area is the site of the Long Island Rail Road Auburndale station on the Port Washington Branch, providing regular service to and from Penn Station in Midtown Manhattan."
+}, {
+    "id": "QN52",
+    "borough": "Queens",
+    "city": "East Flushing",
+    "description": ""
+}, {
+    "id": "SI24",
+    "borough": "Staten Island",
+    "city": "Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill",
+    "description": ""
+}, {
+    "id": "BX34",
+    "borough": "Bronx",
+    "city": "Melrose South-Mott Haven North",
+    "description": ""
+}, {
+    "id": "SI36",
+    "borough": "Staten Island",
+    "city": "Old Town-Dongan Hills-South Beach",
+    "description": ""
+}, {
+    "id": "QN03",
+    "borough": "Queens",
+    "city": "Springfield Gardens South-Brookville",
+    "description": ""
+}, {
+    "id": "QN05",
+    "borough": "Queens",
+    "city": "Rosedale",
+    "description": "Rosedale is a neighborhood in New York City in the southeastern portion of the borough of Queens. The neighborhood is on the border of Queens and Nassau County, Long Island. The neighborhood is part of Queens Community Board 13.\n\n"
+}, {
+    "id": "MN04",
+    "borough": "Manhattan",
+    "city": "Hamilton Heights",
+    "description": "Hamilton Heights is a neighborhood in the northern part of Manhattan, which is a borough of New York City.  It lies between Manhattanville to the south and Washington Heights to the north. It contains the sub-neighborhood of Sugar Hill.\nHamilton Heights is bounded by 135th Street to the south, Riverside Drive to the west, 155th Street to the north, and Edgecombe Avenue to the east.  The community derives its name from Founding Father Alexander Hamilton, who lived the last two years of his life in the area when it was still largely farmland; specifically, he lived in what is now known as Hamilton Grange National Monument. It is located within Manhattan Community Board 9.\n\n"
+}, {
+    "id": "MN24",
+    "borough": "Manhattan",
+    "city": "SoHo-TriBeCa-Civic Center-Little Italy",
+    "description": ""
+}, {
+    "id": "MN36",
+    "borough": "Manhattan",
+    "city": "Washington Heights South",
+    "description": ""
+}, {
+    "id": "BK31",
+    "borough": "Brooklyn",
+    "city": "Bay Ridge",
+    "description": "Bay Ridge is a neighborhood in the southwest corner of the New York City borough of Brooklyn. It is bounded by Sunset Park on the north, Dyker Heights on the east, the Narrows and the Belt Parkway on the west, and Fort Hamilton Army Base and the Verrazzano-Narrows Bridge on the south.\nThe section of Bay Ridge south of 86th Street is sometimes considered part of a sub-neighborhood called Fort Hamilton."
+}, {
+    "id": "SI14",
+    "borough": "Staten Island",
+    "city": "Grasmere-Arrochar-Ft. Wadsworth",
+    "description": ""
+}, {
+    "id": "BX35",
+    "borough": "Bronx",
+    "city": "Morrisania-Melrose",
+    "description": ""
+}, {
+    "id": "SI37",
+    "borough": "Staten Island",
+    "city": "Stapleton-Rosebank",
+    "description": ""
+}, {
+    "id": "BX39",
+    "borough": "Bronx",
+    "city": "Mott Haven-Port Morris",
+    "description": ""
+}, {
+    "id": "MN28",
+    "borough": "Manhattan",
+    "city": "Lower East Side",
+    "description": "The Lower East Side, sometimes abbreviated as LES, is a neighborhood in the southeastern part of the New York City borough of Manhattan, roughly located between the Bowery and the East River, and Canal Street and Houston Street. Traditionally an immigrant, working class neighborhood, it began rapid gentrification in the mid-2000s, prompting the National Trust for Historic Preservation to place the neighborhood on their list of America's Most Endangered Places."
+}, {
+    "id": "BX01",
+    "borough": "Bronx",
+    "city": "Claremont-Bathgate",
+    "description": ""
+}, {
+    "id": "BX75",
+    "borough": "Bronx",
+    "city": "Crotona Park East",
+    "description": "Crotona Park East, also known as Crotona (not to be confused with Crotona Avenue in nearby East Tremont) or East Morrisania, is a residential neighborhood geographically located in the southwest Bronx in New York City. The neighborhood is part of Bronx Community Board 3. Its boundaries, starting from the north and moving clockwise are: the Cross-Bronx Expressway to the north, the Bronx River to the east, East 167th Street to the south, and Crotona/Prospect Avenues to the west. Southern Boulevard is the primary thoroughfare through the area. Zip codes include 10459 and 10460. The area is patrolled by the NYPD's 42nd Precinct located at 830 Washington Ave in Morrisania. NYCHA property in the area is patrolled by P.S.A. 7 at 737 Melrose Avenue in the Melrose section of the Bronx. Crotona Park East is considered part of the socioeconomic South Bronx."
+}, {
+    "id": "MN21",
+    "borough": "Manhattan",
+    "city": "Gramercy",
+    "description": "Gramercy Park () is the name of both a small, fenced-in private park and the surrounding neighborhood that is referred to also as Gramercy, in the New York City borough of Manhattan in New York, United States.The approximately 2-acre (0.81 ha) park, located in the Gramercy Park Historic District, is one of two private parks in New York City – the other is Sunnyside Gardens Park in Queens – as well as one of only three in the state; only people residing around the park who pay an annual fee have a key, and the public is not generally allowed in – although the sidewalks of the streets around the park are a popular jogging, strolling and dog-walking route.\nThe neighborhood, which is divided between New York City's Manhattan Community Board 5 and Manhattan Community Board 6, is generally perceived to be a quiet and safe area.The neighborhood, associated historic district, and park have generally received positive reviews. Calling it \"a Victorian gentleman who has refused to die\", Charlotte Devree in The New York Times said that \"There is nothing else quite like Gramercy Park in the country.\" When the New York City Landmarks Preservation Commission created the Gramercy Park Historic District in 1966, they quoted from John B. Pine's 1921 book, The Story of Gramercy Park:\n\nThe laying out of Gramercy Park represents one of the earliest attempts in this country at 'City Planning'. ... As a park given to the prospective owners of the land surrounding it and held in trust for those who made their homes around it, Gramercy Park is unique in this City, and perhaps in this country, and represents the only neighborhood, with possibly one exception, which has remained comparatively unchanged for eighty years — the Park is one of the City's Landmarks."
+}, {
+    "id": "MN01",
+    "borough": "Manhattan",
+    "city": "Marble Hill-Inwood",
+    "description": ""
+}, {
+    "id": "MN22",
+    "borough": "Manhattan",
+    "city": "East Village",
+    "description": "The East Village is a neighborhood in the New York City borough of Manhattan. It is roughly defined as the neighborhood east of the Bowery and Third Avenue, between 14th Street on the north and Houston Street on the south.The area was once generally considered to be part of the Lower East Side with a large Russian, Ukrainian and Jewish population but gradually changed and by the late 1960s, many artists, musicians, students and hippies began to move into the area, attracted by cheap rents and the base of Beatniks who had lived there since the 1950s. The neighborhood has become a center of the counterculture in New York, and is known as the birthplace and historical home of many artistic movements, including punk rock and the Nuyorican literary movement. It has also been the site of protests and riots.\nEast Village is still known for its diverse community, vibrant nightlife and artistic sensibility, although in recent decades it has been argued that gentrification has changed the character of the neighborhood."
+}, {
+    "id": "BX36",
+    "borough": "Bronx",
+    "city": "University Heights-Morris Heights",
+    "description": ""
+}, {
+    "id": "MN23",
+    "borough": "Manhattan",
+    "city": "West Village",
+    "description": "The West Village is a neighborhood in the western section of the larger Greenwich Village neighborhood of Lower Manhattan, New York City.The West Village is traditionally bounded by the Hudson River to the west, West 14th Street to the north, Greenwich Avenue to the east, and Houston Street to the south. Some use Seventh Avenue or Avenue of the Americas as the eastern boundary. The Far West Village extends from the Hudson River to Hudson Street, between Gansevoort Street and Leroy Street.Neighboring communities include Chelsea to the north, the South Village and Hudson Square to the south, and the Washington Square neighborhood of Greenwich Village to the east.The neighborhood is primarily residential, with a multitude of small restaurants, shops, and services. The area is part of Manhattan Community Board 2, as well as of the Sixth Precinct of the New York City Police Department, which also covers an area east of the West Village between Sixth Avenue and Broadway from Houston to 14th Streets. Residential property sale prices in the West Village neighborhood are some of the most expensive in the United States, typically exceeding US$2,100 per square foot ($23,000/m2) in 2017."
+}, {
+    "id": "MN13",
+    "borough": "Manhattan",
+    "city": "Hudson Yards-Chelsea-Flatiron-Union Square",
+    "description": ""
+}, {
+    "id": "BX40",
+    "borough": "Bronx",
+    "city": "Fordham South",
+    "description": ""
+}, {
+    "id": "MN12",
+    "borough": "Manhattan",
+    "city": "Upper West Side",
+    "description": "The Upper West Side, sometimes abbreviated UWS, is a neighborhood in the borough of Manhattan, New York City, that lies between Central Park and the Hudson River and between West 59th Street and West 110th Street.Like the Upper East Side, the Upper West Side is an affluent, primarily residential area with many of its residents working in commercial areas of Midtown and Lower Manhattan. It has the reputation of being New York City's cultural and intellectual hub, with Columbia University and Barnard College located just past the north end of the neighborhood, and the Lincoln Center for the Performing Arts located at the south end. The Upper West Side is considered to be among New York City's wealthiest neighborhoods."
+}, {
+    "id": "MN99",
+    "borough": "Manhattan",
+    "city": "park-cemetery-etc-Manhattan",
+    "description": ""
+}, {
+    "id": "BX43",
+    "borough": "Bronx",
+    "city": "Norwood",
+    "description": "Norwood, also known as Bainbridge, is a working-class residential neighborhood in the northwest Bronx, New York City.  As of the census of 2000, the seven census tracts that make up the neighborhood have a population of 40,748.  The area is dominated topographically by what was once known as Valentine's Hill, the highest point being near the intersection of 210th Street and Bainbridge Avenue, where Gun Hill Road intersects, and around the Montefiore Medical Center, the largest landowner and employer of the neighborhood. It borders Van Cortlandt Park and Woodlawn Cemetery to the north, the Bronx River to the east, and Mosholu Parkway to the south and west.  Norwood's main commercial arteries are Gun Hill Road, Jerome Avenue, Webster Avenue, and Bainbridge Avenue.\nDue to its use in city publications, subway maps, and local media, \"Norwood\" is the neighborhood's more common name, but the area is also known as \"Bainbridge,\" most consistently within the neighborhood's Irish American community that is centered on the commercial zone of Bainbridge Avenue and East 204th Street. However, as this Irish community largely left the country during the 1990s, the name \"Bainbridge\" has accordingly lost a great deal of currency. Even the name \"Norwood\" does not carry a great deal of currency as do nearby neighborhoods such as Riverdale and Woodlawn.The neighborhood is part of Bronx Community District 7 and is patrolled by the NYPD's 52nd Precinct. The 52nd Precinct located in a historic building at 3016 Webster Avenue."
+}, {
+    "id": "BX05",
+    "borough": "Bronx",
+    "city": "Bedford Park-Fordham North",
+    "description": ""
+}, {
+    "id": "BX14",
+    "borough": "Bronx",
+    "city": "East Concourse-Concourse Village",
+    "description": ""
+}, {
+    "id": "BX63",
+    "borough": "Bronx",
+    "city": "West Concourse",
+    "description": ""
+}, {
+    "id": "BX03",
+    "borough": "Bronx",
+    "city": "Eastchester-Edenwald-Baychester",
+    "description": ""
+}, {
+    "id": "BX13",
+    "borough": "Bronx",
+    "city": "Co-op City",
+    "description": "Co-op City (short for Cooperative City), located in the Baychester section of the borough of the Bronx in northeast New York City, is the largest cooperative housing development in the world. Situated at the intersection of Interstate 95 and the Hutchinson River Parkway, the community is part of Bronx Community District 10. If it were a distinct municipality, it would be the 10th largest city in New York State. Nearby attractions include Pelham Bay Park, Orchard Beach and City Island. The community's Zip code is 10475.\n\n"
+}, {
+    "id": "MN33",
+    "borough": "Manhattan",
+    "city": "East Harlem South",
+    "description": ""
+}, {
+    "id": "BX17",
+    "borough": "Bronx",
+    "city": "East Tremont",
+    "description": "East Tremont is a residential neighborhood located in the West Bronx, New York City.  It is part of Bronx Community Board 6. It borders, from the north and moving clockwise, East 180th Street, Crotona Avenue, the Cross-Bronx Expressway and Webster Avenue. East Tremont Avenue is the primary thoroughfare through the neighborhood. ZIP codes include 10457 and 10460. The area is patrolled by the NYPD's 48th Precinct located at 450 Cross Bronx Expressway. New York City Housing Authority property in the area is patrolled by P.S.A. 8 at 2794 Randall Avenue in the Throggs Neck section of the Bronx."
+}, {
+    "id": "BK99",
+    "borough": "Brooklyn",
+    "city": "park-cemetery-etc-Brooklyn",
+    "description": ""
+}, {
+    "id": "QN99",
+    "borough": "Queens",
+    "city": "park-cemetery-etc-Queens",
+    "description": ""
+}, {
+    "id": "MN34",
+    "borough": "Manhattan",
+    "city": "East Harlem North",
+    "description": ""
+}, {
+    "id": "BX06",
+    "borough": "Bronx",
+    "city": "Belmont",
+    "description": "Belmont is a primarily residential neighborhood geographically located in the  Bronx in New York City. Its boundaries, starting from the north and moving clockwise, are Fordham Road to the north, Bronx Park to the east, East 180th Street to the south, and Third Avenue to the west. These boundaries give the neighborhood a crescent-like shape. The neighborhood is noted for its \"close-knit community\" and \"small town feel,\" and as a result of its cultural history and wide array of Italian businesses, is widely known as the \"Little Italy of the Bronx.\""
+}]

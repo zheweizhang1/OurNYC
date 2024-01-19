@@ -1,0 +1,791 @@
+[{
+    "id": "BK88",
+    "borough": "Brooklyn",
+    "city": "Borough Park"
+}, {
+    "id": "QN51",
+    "borough": "Queens",
+    "city": "Murray Hill"
+}, {
+    "id": "QN27",
+    "borough": "Queens",
+    "city": "East Elmhurst"
+}, {
+    "id": "QN07",
+    "borough": "Queens",
+    "city": "Hollis"
+}, {
+    "id": "MN06",
+    "borough": "Manhattan",
+    "city": "Manhattanville"
+}, {
+    "id": "QN02",
+    "borough": "Queens",
+    "city": "Springfield Gardens North"
+}, {
+    "id": "BX59",
+    "borough": "Bronx",
+    "city": "Westchester-Unionport"
+}, {
+    "id": "QN46",
+    "borough": "Queens",
+    "city": "Bayside-Bayside Hills"
+}, {
+    "id": "BK25",
+    "borough": "Brooklyn",
+    "city": "Homecrest"
+}, {
+    "id": "BK95",
+    "borough": "Brooklyn",
+    "city": "Erasmus"
+}, {
+    "id": "QN41",
+    "borough": "Queens",
+    "city": "Fresh Meadows-Utopia"
+}, {
+    "id": "MN19",
+    "borough": "Manhattan",
+    "city": "Turtle Bay-East Midtown"
+}, {
+    "id": "BX33",
+    "borough": "Bronx",
+    "city": "Longwood"
+}, {
+    "id": "QN08",
+    "borough": "Queens",
+    "city": "St. Albans"
+}, {
+    "id": "QN25",
+    "borough": "Queens",
+    "city": "Corona"
+}, {
+    "id": "BK69",
+    "borough": "Brooklyn",
+    "city": "Clinton Hill"
+}, {
+    "id": "BK17",
+    "borough": "Brooklyn",
+    "city": "Sheepshead Bay-Gerritsen Beach-Manhattan Beach"
+}, {
+    "id": "QN06",
+    "borough": "Queens",
+    "city": "Jamaica Estates-Holliswood"
+}, {
+    "id": "BK44",
+    "borough": "Brooklyn",
+    "city": "Madison"
+}, {
+    "id": "BK41",
+    "borough": "Brooklyn",
+    "city": "Kensington-Ocean Parkway"
+}, {
+    "id": "BX10",
+    "borough": "Bronx",
+    "city": "Pelham Bay-Country Club-City Island"
+}, {
+    "id": "QN61",
+    "borough": "Queens",
+    "city": "Jamaica"
+}, {
+    "id": "QN01",
+    "borough": "Queens",
+    "city": "South Jamaica"
+}, {
+    "id": "QN33",
+    "borough": "Queens",
+    "city": "Cambria Heights"
+}, {
+    "id": "QN70",
+    "borough": "Queens",
+    "city": "Astoria"
+}, {
+    "id": "BK43",
+    "borough": "Brooklyn",
+    "city": "Midwood"
+}, {
+    "id": "BK46",
+    "borough": "Brooklyn",
+    "city": "Ocean Parkway South"
+}, {
+    "id": "BK26",
+    "borough": "Brooklyn",
+    "city": "Gravesend"
+}, {
+    "id": "BK29",
+    "borough": "Brooklyn",
+    "city": "Bensonhurst East"
+}, {
+    "id": "BK72",
+    "borough": "Brooklyn",
+    "city": "Williamsburg"
+}, {
+    "id": "BK75",
+    "borough": "Brooklyn",
+    "city": "Bedford"
+}, {
+    "id": "BK35",
+    "borough": "Brooklyn",
+    "city": "Stuyvesant Heights"
+}, {
+    "id": "BX41",
+    "borough": "Bronx",
+    "city": "Mount Hope"
+}, {
+    "id": "BK79",
+    "borough": "Brooklyn",
+    "city": "Ocean Hill"
+}, {
+    "id": "BK61",
+    "borough": "Brooklyn",
+    "city": "Crown Heights North"
+}, {
+    "id": "BK63",
+    "borough": "Brooklyn",
+    "city": "Crown Heights South"
+}, {
+    "id": "BK96",
+    "borough": "Brooklyn",
+    "city": "Rugby-Remsen Village"
+}, {
+    "id": "BX31",
+    "borough": "Bronx",
+    "city": "Allerton-Pelham Gardens"
+}, {
+    "id": "BK93",
+    "borough": "Brooklyn",
+    "city": "Starrett City"
+}, {
+    "id": "BK91",
+    "borough": "Brooklyn",
+    "city": "East Flatbush-Farragut"
+}, {
+    "id": "QN20",
+    "borough": "Queens",
+    "city": "Ridgewood"
+}, {
+    "id": "BX99",
+    "borough": "Bronx",
+    "city": "park-cemetery-etc-Bronx"
+}, {
+    "id": "BK78",
+    "borough": "Brooklyn",
+    "city": "Bushwick South"
+}, {
+    "id": "BK77",
+    "borough": "Brooklyn",
+    "city": "Bushwick North"
+}, {
+    "id": "BX37",
+    "borough": "Bronx",
+    "city": "Van Nest-Morris Park-Westchester Square"
+}, {
+    "id": "BK68",
+    "borough": "Brooklyn",
+    "city": "Fort Greene"
+}, {
+    "id": "BK34",
+    "borough": "Brooklyn",
+    "city": "Sunset Park East"
+}, {
+    "id": "MN31",
+    "borough": "Manhattan",
+    "city": "Lenox Hill-Roosevelt Island"
+}, {
+    "id": "QN68",
+    "borough": "Queens",
+    "city": "Queensbridge-Ravenswood-Long Island City"
+}, {
+    "id": "QN42",
+    "borough": "Queens",
+    "city": "Oakland Gardens"
+}, {
+    "id": "BX49",
+    "borough": "Bronx",
+    "city": "Pelham Parkway"
+}, {
+    "id": "BK60",
+    "borough": "Brooklyn",
+    "city": "Prospect Lefferts Gardens-Wingate"
+}, {
+    "id": "BX08",
+    "borough": "Bronx",
+    "city": "West Farms-Bronx River"
+}, {
+    "id": "BX46",
+    "borough": "Bronx",
+    "city": "Parkchester"
+}, {
+    "id": "BX55",
+    "borough": "Bronx",
+    "city": "Soundview-Bruckner"
+}, {
+    "id": "QN66",
+    "borough": "Queens",
+    "city": "Laurelton"
+}, {
+    "id": "SI08",
+    "borough": "Staten Island",
+    "city": "Grymes Hill-Clifton-Fox Hills"
+}, {
+    "id": "BK30",
+    "borough": "Brooklyn",
+    "city": "Dyker Heights"
+}, {
+    "id": "BK23",
+    "borough": "Brooklyn",
+    "city": "West Brighton"
+}, {
+    "id": "QN19",
+    "borough": "Queens",
+    "city": "Glendale"
+}, {
+    "id": "BX28",
+    "borough": "Bronx",
+    "city": "Van Cortlandt Village"
+}, {
+    "id": "QN71",
+    "borough": "Queens",
+    "city": "Old Astoria"
+}, {
+    "id": "QN38",
+    "borough": "Queens",
+    "city": "Pomonok-Flushing Heights-Hillcrest"
+}, {
+    "id": "BK09",
+    "borough": "Brooklyn",
+    "city": "Brooklyn Heights-Cobble Hill"
+}, {
+    "id": "SI99",
+    "borough": "Staten Island",
+    "city": "park-cemetery-etc-Staten Island"
+}, {
+    "id": "BX07",
+    "borough": "Bronx",
+    "city": "Bronxdale"
+}, {
+    "id": "MN15",
+    "borough": "Manhattan",
+    "city": "Clinton"
+}, {
+    "id": "QN18",
+    "borough": "Queens",
+    "city": "Rego Park"
+}, {
+    "id": "QN26",
+    "borough": "Queens",
+    "city": "North Corona"
+}, {
+    "id": "QN34",
+    "borough": "Queens",
+    "city": "Queens Village"
+}, {
+    "id": "QN43",
+    "borough": "Queens",
+    "city": "Bellerose"
+}, {
+    "id": "BK85",
+    "borough": "Brooklyn",
+    "city": "East New York (Pennsylvania Ave)"
+}, {
+    "id": "QN21",
+    "borough": "Queens",
+    "city": "Middle Village"
+}, {
+    "id": "QN29",
+    "borough": "Queens",
+    "city": "Elmhurst"
+}, {
+    "id": "BX62",
+    "borough": "Bronx",
+    "city": "Woodlawn-Wakefield"
+}, {
+    "id": "QN10",
+    "borough": "Queens",
+    "city": "Breezy Point-Belle Harbor-Rockaway Park-Broad Channel"
+}, {
+    "id": "QN55",
+    "borough": "Queens",
+    "city": "South Ozone Park"
+}, {
+    "id": "QN47",
+    "borough": "Queens",
+    "city": "Ft. Totten-Bay Terrace-Clearview"
+}, {
+    "id": "QN49",
+    "borough": "Queens",
+    "city": "Whitestone"
+}, {
+    "id": "QN12",
+    "borough": "Queens",
+    "city": "Hammels-Arverne-Edgemere"
+}, {
+    "id": "QN15",
+    "borough": "Queens",
+    "city": "Far Rockaway-Bayswater"
+}, {
+    "id": "BK27",
+    "borough": "Brooklyn",
+    "city": "Bath Beach"
+}, {
+    "id": "BK28",
+    "borough": "Brooklyn",
+    "city": "Bensonhurst West"
+}, {
+    "id": "QN76",
+    "borough": "Queens",
+    "city": "Baisley Park"
+}, {
+    "id": "QN30",
+    "borough": "Queens",
+    "city": "Maspeth"
+}, {
+    "id": "SI48",
+    "borough": "Staten Island",
+    "city": "Arden Heights"
+}, {
+    "id": "QN50",
+    "borough": "Queens",
+    "city": "Elmhurst-Maspeth"
+}, {
+    "id": "QN23",
+    "borough": "Queens",
+    "city": "College Point"
+}, {
+    "id": "QN63",
+    "borough": "Queens",
+    "city": "Woodside"
+}, {
+    "id": "QN37",
+    "borough": "Queens",
+    "city": "Kew Gardens Hills"
+}, {
+    "id": "BX30",
+    "borough": "Bronx",
+    "city": "Kingsbridge Heights"
+}, {
+    "id": "BK76",
+    "borough": "Brooklyn",
+    "city": "Greenpoint"
+}, {
+    "id": "SI12",
+    "borough": "Staten Island",
+    "city": "Mariner's Harbor-Arlington-Port Ivory-Graniteville"
+}, {
+    "id": "BX98",
+    "borough": "Bronx",
+    "city": "Rikers Island"
+}, {
+    "id": "BX44",
+    "borough": "Bronx",
+    "city": "Williamsbridge-Olinville"
+}, {
+    "id": "SI28",
+    "borough": "Staten Island",
+    "city": "Port Richmond"
+}, {
+    "id": "BK73",
+    "borough": "Brooklyn",
+    "city": "North Side-South Side"
+}, {
+    "id": "BK81",
+    "borough": "Brooklyn",
+    "city": "Brownsville"
+}, {
+    "id": "SI07",
+    "borough": "Staten Island",
+    "city": "Westerleigh"
+}, {
+    "id": "BX52",
+    "borough": "Bronx",
+    "city": "Schuylerville-Throgs Neck-Edgewater Park"
+}, {
+    "id": "QN54",
+    "borough": "Queens",
+    "city": "Richmond Hill"
+}, {
+    "id": "QN22",
+    "borough": "Queens",
+    "city": "Flushing"
+}, {
+    "id": "QN62",
+    "borough": "Queens",
+    "city": "Queensboro Hill"
+}, {
+    "id": "MN27",
+    "borough": "Manhattan",
+    "city": "Chinatown"
+}, {
+    "id": "QN17",
+    "borough": "Queens",
+    "city": "Forest Hills",
+    "description": "Forest Hills is a mostly residential neighborhood in the central portion of the borough of Queens in New York City. The north, east, and south boundaries are the Long Island Expressway, Grand Central Parkway, and Union Turnpike, respectively. Google Maps shows the western boundary running roughly along 102nd Street, 67th Avenue, and the Long Island Rail Road's former Rockaway Beach Branch; while the Encyclopedia of New York City defines the western boundary as Junction Boulevard and the former Rockaway Beach Branch. The area was originally referred to as \"Whitepot\".Forest Hills has a great tradition of tennis, with Forest Hills Stadium having hosted the U.S. Open until 1978 and the West Side Tennis Club offering pristine grass courts for its members. Bustling Austin Street bisects Forest Hills and boasts many restaurants and chain stores. Forest Hills is bordered by Flushing Meadows–Corona Park and Forest Park.",
+    "zip_code": "11375",
+    "ethnicity": {
+        "White": 0.5958,
+        "Asian": 0.237,
+        "Hispanic": 0.1203,
+        "Black": 0.373
+    },
+    "subways": ["E", "F", "M", "R"],
+    "busses": ["Q23", "Q60", "Q64"]
+}, {
+    "id": "MN35",
+    "borough": "Manhattan",
+    "city": "Washington Heights North"
+}, {
+    "id": "QN72",
+    "borough": "Queens",
+    "city": "Steinway"
+}, {
+    "id": "SI01",
+    "borough": "Staten Island",
+    "city": "Annadale-Huguenot-Prince's Bay-Eltingville"
+}, {
+    "id": "MN25",
+    "borough": "Manhattan",
+    "city": "Battery Park City-Lower Manhattan"
+}, {
+    "id": "MN14",
+    "borough": "Manhattan",
+    "city": "Lincoln Square"
+}, {
+    "id": "MN17",
+    "borough": "Manhattan",
+    "city": "Midtown-Midtown South"
+}, {
+    "id": "MN40",
+    "borough": "Manhattan",
+    "city": "Upper East Side-Carnegie Hill"
+}, {
+    "id": "QN53",
+    "borough": "Queens",
+    "city": "Woodhaven"
+}, {
+    "id": "QN56",
+    "borough": "Queens",
+    "city": "Ozone Park"
+}, {
+    "id": "SI25",
+    "borough": "Staten Island",
+    "city": "Oakwood-Oakwood Beach"
+}, {
+    "id": "SI54",
+    "borough": "Staten Island",
+    "city": "Great Kills"
+}, {
+    "id": "BX26",
+    "borough": "Bronx",
+    "city": "Highbridge"
+}, {
+    "id": "MN11",
+    "borough": "Manhattan",
+    "city": "Central Harlem South"
+}, {
+    "id": "BK19",
+    "borough": "Brooklyn",
+    "city": "Brighton Beach"
+}, {
+    "id": "BK21",
+    "borough": "Brooklyn",
+    "city": "Seagate-Coney Island"
+}, {
+    "id": "SI45",
+    "borough": "Staten Island",
+    "city": "New Dorp-Midland Beach"
+}, {
+    "id": "MN50",
+    "borough": "Manhattan",
+    "city": "Stuyvesant Town-Cooper Village"
+}, {
+    "id": "SI05",
+    "borough": "Staten Island",
+    "city": "New Springville-Bloomfield-Travis"
+}, {
+    "id": "BK38",
+    "borough": "Brooklyn",
+    "city": "DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill"
+}, {
+    "id": "SI22",
+    "borough": "Staten Island",
+    "city": "West New Brighton-New Brighton-St. George"
+}, {
+    "id": "SI35",
+    "borough": "Staten Island",
+    "city": "New Brighton-Silver Lake"
+}, {
+    "id": "QN57",
+    "borough": "Queens",
+    "city": "Lindenwood-Howard Beach"
+}, {
+    "id": "BX22",
+    "borough": "Bronx",
+    "city": "North Riverdale-Fieldston-Riverdale"
+}, {
+    "id": "BX29",
+    "borough": "Bronx",
+    "city": "Spuyten Duyvil-Kingsbridge"
+}, {
+    "id": "BK40",
+    "borough": "Brooklyn",
+    "city": "Windsor Terrace"
+}, {
+    "id": "BK64",
+    "borough": "Brooklyn",
+    "city": "Prospect Heights"
+}, {
+    "id": "BK42",
+    "borough": "Brooklyn",
+    "city": "Flatbush"
+}, {
+    "id": "BX27",
+    "borough": "Bronx",
+    "city": "Hunts Point"
+}, {
+    "id": "BK45",
+    "borough": "Brooklyn",
+    "city": "Georgetown-Marine Park-Bergen Beach-Mill Basin"
+}, {
+    "id": "BK50",
+    "borough": "Brooklyn",
+    "city": "Canarsie"
+}, {
+    "id": "BK58",
+    "borough": "Brooklyn",
+    "city": "Flatlands"
+}, {
+    "id": "BK32",
+    "borough": "Brooklyn",
+    "city": "Sunset Park West"
+}, {
+    "id": "QN44",
+    "borough": "Queens",
+    "city": "Glen Oaks-Floral Park-New Hyde Park"
+}, {
+    "id": "QN45",
+    "borough": "Queens",
+    "city": "Douglas Manor-Douglaston-Little Neck"
+}, {
+    "id": "QN35",
+    "borough": "Queens",
+    "city": "Briarwood-Jamaica Hills"
+}, {
+    "id": "QN60",
+    "borough": "Queens",
+    "city": "Kew Gardens"
+}, {
+    "id": "BX09",
+    "borough": "Bronx",
+    "city": "Soundview-Castle Hill-Clason Point-Harding Park"
+}, {
+    "id": "QN28",
+    "borough": "Queens",
+    "city": "Jackson Heights"
+}, {
+    "id": "QN98",
+    "borough": "Queens",
+    "city": "Airport"
+}, {
+    "id": "BK37",
+    "borough": "Brooklyn",
+    "city": "Park Slope-Gowanus"
+}, {
+    "id": "BK90",
+    "borough": "Brooklyn",
+    "city": "East Williamsburg"
+}, {
+    "id": "QN31",
+    "borough": "Queens",
+    "city": "Hunters Point-Sunnyside-West Maspeth"
+}, {
+    "id": "BK33",
+    "borough": "Brooklyn",
+    "city": "Carroll Gardens-Columbia Street-Red Hook"
+}, {
+    "id": "MN20",
+    "borough": "Manhattan",
+    "city": "Murray Hill-Kips Bay"
+}, {
+    "id": "MN09",
+    "borough": "Manhattan",
+    "city": "Morningside Heights"
+}, {
+    "id": "SI11",
+    "borough": "Staten Island",
+    "city": "Charleston-Richmond Valley-Tottenville"
+}, {
+    "id": "SI32",
+    "borough": "Staten Island",
+    "city": "Rossville-Woodrow"
+}, {
+    "id": "BK83",
+    "borough": "Brooklyn",
+    "city": "Cypress Hills-City Line"
+}, {
+    "id": "MN03",
+    "borough": "Manhattan",
+    "city": "Central Harlem North-Polo Grounds"
+}, {
+    "id": "BK82",
+    "borough": "Brooklyn",
+    "city": "East New York"
+}, {
+    "id": "MN32",
+    "borough": "Manhattan",
+    "city": "Yorkville"
+}, {
+    "id": "QN48",
+    "borough": "Queens",
+    "city": "Auburndale"
+}, {
+    "id": "QN52",
+    "borough": "Queens",
+    "city": "East Flushing"
+}, {
+    "id": "SI24",
+    "borough": "Staten Island",
+    "city": "Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill"
+}, {
+    "id": "BX34",
+    "borough": "Bronx",
+    "city": "Melrose South-Mott Haven North"
+}, {
+    "id": "SI36",
+    "borough": "Staten Island",
+    "city": "Old Town-Dongan Hills-South Beach"
+}, {
+    "id": "QN03",
+    "borough": "Queens",
+    "city": "Springfield Gardens South-Brookville"
+}, {
+    "id": "QN05",
+    "borough": "Queens",
+    "city": "Rosedale"
+}, {
+    "id": "MN04",
+    "borough": "Manhattan",
+    "city": "Hamilton Heights"
+}, {
+    "id": "MN24",
+    "borough": "Manhattan",
+    "city": "SoHo-TriBeCa-Civic Center-Little Italy"
+}, {
+    "id": "MN36",
+    "borough": "Manhattan",
+    "city": "Washington Heights South"
+}, {
+    "id": "BK31",
+    "borough": "Brooklyn",
+    "city": "Bay Ridge"
+}, {
+    "id": "SI14",
+    "borough": "Staten Island",
+    "city": "Grasmere-Arrochar-Ft. Wadsworth"
+}, {
+    "id": "BX35",
+    "borough": "Bronx",
+    "city": "Morrisania-Melrose"
+}, {
+    "id": "SI37",
+    "borough": "Staten Island",
+    "city": "Stapleton-Rosebank"
+}, {
+    "id": "BX39",
+    "borough": "Bronx",
+    "city": "Mott Haven-Port Morris"
+}, {
+    "id": "MN28",
+    "borough": "Manhattan",
+    "city": "Lower East Side"
+}, {
+    "id": "BX01",
+    "borough": "Bronx",
+    "city": "Claremont-Bathgate"
+}, {
+    "id": "BX75",
+    "borough": "Bronx",
+    "city": "Crotona Park East"
+}, {
+    "id": "MN21",
+    "borough": "Manhattan",
+    "city": "Gramercy"
+}, {
+    "id": "MN01",
+    "borough": "Manhattan",
+    "city": "Marble Hill-Inwood"
+}, {
+    "id": "MN22",
+    "borough": "Manhattan",
+    "city": "East Village"
+}, {
+    "id": "BX36",
+    "borough": "Bronx",
+    "city": "University Heights-Morris Heights"
+}, {
+    "id": "MN23",
+    "borough": "Manhattan",
+    "city": "West Village"
+}, {
+    "id": "MN13",
+    "borough": "Manhattan",
+    "city": "Hudson Yards-Chelsea-Flatiron-Union Square"
+}, {
+    "id": "BX40",
+    "borough": "Bronx",
+    "city": "Fordham South"
+}, {
+    "id": "MN12",
+    "borough": "Manhattan",
+    "city": "Upper West Side"
+}, {
+    "id": "MN99",
+    "borough": "Manhattan",
+    "city": "park-cemetery-etc-Manhattan"
+}, {
+    "id": "BX43",
+    "borough": "Bronx",
+    "city": "Norwood"
+}, {
+    "id": "BX05",
+    "borough": "Bronx",
+    "city": "Bedford Park-Fordham North"
+}, {
+    "id": "BX14",
+    "borough": "Bronx",
+    "city": "East Concourse-Concourse Village"
+}, {
+    "id": "BX63",
+    "borough": "Bronx",
+    "city": "West Concourse"
+}, {
+    "id": "BX03",
+    "borough": "Bronx",
+    "city": "Eastchester-Edenwald-Baychester"
+}, {
+    "id": "BX13",
+    "borough": "Bronx",
+    "city": "Co-op City"
+}, {
+    "id": "MN33",
+    "borough": "Manhattan",
+    "city": "East Harlem South"
+}, {
+    "id": "BX17",
+    "borough": "Bronx",
+    "city": "East Tremont"
+}, {
+    "id": "BK99",
+    "borough": "Brooklyn",
+    "city": "park-cemetery-etc-Brooklyn"
+}, {
+    "id": "QN99",
+    "borough": "Queens",
+    "city": "park-cemetery-etc-Queens"
+}, {
+    "id": "MN34",
+    "borough": "Manhattan",
+    "city": "East Harlem North"
+}, {
+    "id": "BX06",
+    "borough": "Bronx",
+    "city": "Belmont"
+}]
